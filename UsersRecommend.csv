@@ -1,0 +1,4454 @@
+year,item_id,app_name,number_user_id_recom
+2010,440,Team Fortress 2,7
+2010,630,Alien Swarm,4
+2010,1250,Killing Floor,4
+2010,22600,Worms Reloaded,2
+2010,240,Counter-Strike: Source,1
+2010,300,Day of Defeat: Source,1
+2010,400,Portal,1
+2010,550,Left 4 Dead 2,1
+2010,2300,DOOM II,1
+2010,3910,Sid Meier's Civilization® III Complete,1
+2010,4000,Garry's Mod,1
+2010,7200,Trackmania United Forever Star Edition,1
+2010,8800,Civilization IV: Beyond the Sword,1
+2010,8930,Sid Meier's Civilization® V,1
+2010,10150,Prototype™,1
+2010,12900,AudioSurf,1
+2010,13570,Tom Clancy's Splinter Cell Chaos Theory®,1
+2010,15320,IL-2 Sturmovik: 1946,1
+2010,17450,Dragon Age: Origins,1
+2010,21970,,1
+2010,22380,Fallout: New Vegas,1
+2010,24010,Train Simulator,1
+2010,25900,King's Bounty: The Legend,1
+2010,31220,,1
+2010,32370,STAR WARS™ - Knights of the Old Republic™,1
+2010,33680,eversion,1
+2010,39690,ArcaniA,1
+2010,40700,Machinarium,1
+2010,40800,Super Meat Boy,1
+2010,45000,Sol Survivor,1
+2010,48700,Mount & Blade: Warband,1
+2010,57300,Amnesia: The Dark Descent,1
+2010,58540,,1
+2010,62100,Chime,1
+2010,70400,Recettear: An Item Shop's Tale,1
+2011,440,Team Fortress 2,57
+2011,620,Portal 2,20
+2011,105600,Terraria,16
+2011,400,Portal,13
+2011,4000,Garry's Mod,12
+2011,1250,Killing Floor,11
+2011,72850,,9
+2011,107100,Bastion,7
+2011,550,Left 4 Dead 2,6
+2011,240,Counter-Strike: Source,5
+2011,630,Alien Swarm,5
+2011,8980,Borderlands,5
+2011,12900,AudioSurf,5
+2011,9480,Saints Row 2,4
+2011,24960,Battlefield: Bad Company™ 2,4
+2011,34330,,4
+2011,40800,Super Meat Boy,4
+2011,42910,Magicka,4
+2011,220,Half-Life 2,3
+2011,4560,Company of Heroes - Legacy Edition,3
+2011,10180,Call of Duty®: Modern Warfare® 2,3
+2011,15620,"Warhammer 40,000: Dawn of War II",3
+2011,22200,Zeno Clash,3
+2011,22380,Fallout: New Vegas,3
+2011,24980,Mass Effect 2,3
+2011,35450,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,3
+2011,39120,RIFT,3
+2011,41300,Altitude,3
+2011,43110,,3
+2011,49600,Beat Hazard,3
+2011,91310,,3
+2011,320,Half-Life 2: Deathmatch,2
+2011,8190,Just Cause 2,2
+2011,12500,PuzzleQuest: Challenge of the Warlords,2
+2011,12750,,2
+2011,20900,The Witcher: Enhanced Edition Director's Cut,2
+2011,22330,The Elder Scrolls IV: Oblivion® Game of the Year Edition,2
+2011,22350,BRINK,2
+2011,22370,Fallout 3: Game of the Year Edition,2
+2011,24200,DC Universe™ Online,2
+2011,24240,PAYDAY™ The Heist,2
+2011,26500,Cogs,2
+2011,26800,Braid,2
+2011,33930,Arma 2: Operation Arrowhead,2
+2011,34350,,2
+2011,50130,Mafia II,2
+2011,56400,,2
+2011,57900,Duke Nukem Forever,2
+2011,63710,BIT.TRIP RUNNER,2
+2011,92800,SpaceChem,2
+2011,98200,Frozen Synapse,2
+2011,99700,NightSky,2
+2011,99900,Spiral Knights,2
+2011,102600,Orcs Must Die!,2
+2011,105400,,2
+2011,113400,APB Reloaded,2
+2011,10,Counter-Strike,1
+2011,70,Half-Life,1
+2011,300,Day of Defeat: Source,1
+2011,380,Half-Life 2: Episode One,1
+2011,420,Half-Life 2: Episode Two,1
+2011,570,,1
+2011,1510,Uplink,1
+2011,2200,Quake III Arena,1
+2011,2760,,1
+2011,3483,Peggle Extreme,1
+2011,3830,Psychonauts,1
+2011,4500,S.T.A.L.K.E.R.: Shadow of Chernobyl,1
+2011,4700,Medieval II: Total War™,1
+2011,6030,STAR WARS™ Jedi Knight II - Jedi Outcast™,1
+2011,6060,"Star Wars: Battlefront 2 (Classic, 2005)",1
+2011,6860,Hitman: Blood Money,1
+2011,6880,Just Cause,1
+2011,6910,Deus Ex: Game of the Year Edition,1
+2011,7670,BioShock™,1
+2011,7760,X-COM: UFO Defense,1
+2011,7830,Men of War™,1
+2011,8500,EVE Online,1
+2011,8930,Sid Meier's Civilization® V,1
+2011,9050,DOOM 3,1
+2011,9180,Commander Keen,1
+2011,9200,RAGE,1
+2011,9880,Champions Online,1
+2011,10500,Empire: Total War™,1
+2011,10680,Aliens vs. Predator™,1
+2011,11450,Overlord™,1
+2011,12220,Grand Theft Auto: Episodes from Liberty City,1
+2011,12810,Overlord II,1
+2011,13140,,1
+2011,13510,,1
+2011,13600,Prince of Persia®: The Sands of Time,1
+2011,15520,AaAaAA!!! - A Reckless Disregard for Gravity,1
+2011,15700,Oddworld: Abe's Oddysee®,1
+2011,15710,Oddworld: Abe's Exoddus®,1
+2011,17020,,1
+2011,17460,Mass Effect,1
+2011,17710,Nuclear Dawn,1
+2011,19680,,1
+2011,20510,S.T.A.L.K.E.R.: Clear Sky,1
+2011,20570,"Warhammer® 40,000: Dawn of War® II Chaos Rising",1
+2011,20920,The Witcher 2: Assassins of Kings Enhanced Edition,1
+2011,21660,Street Fighter® IV,1
+2011,22100,Mount & Blade,1
+2011,22600,Worms Reloaded,1
+2011,24740,Burnout Paradise: The Ultimate Box,1
+2011,24860,,1
+2011,25010,Lugaru HD,1
+2011,25800,Europa Universalis III Complete,1
+2011,26900,Crayon Physics Deluxe,1
+2011,31280,Poker Night at the Inventory,1
+2011,31410,,1
+2011,32370,STAR WARS™ - Knights of the Old Republic™,1
+2011,32440,LEGO® Star Wars™ - The Complete Saga,1
+2011,32500,STAR WARS™: The Force Unleashed™ II,1
+2011,33220,,1
+2011,33310,,1
+2011,33460,From Dust,1
+2011,34030,Napoleon: Total War™,1
+2011,35480,Dwarfs!?,1
+2011,35700,Trine Enchanted Edition,1
+2011,36630,,1
+2011,38600,Faerie Solitaire,1
+2011,41070,,1
+2011,41600,Earthworm Jim 3D,1
+2011,41800,Gratuitous Space Battles,1
+2011,42700,Call of Duty®: Black Ops,1
+2011,42960,Victoria II,1
+2011,45300,Wings of Prey,1
+2011,47700,Command & Conquer 4: Tiberian Twilight,1
+2011,48190,Assassin’s Creed® Brotherhood,1
+2011,49400,,1
+2011,50510,Burn Zombie Burn!,1
+2011,55040,Atom Zombie Smasher,1
+2011,55150,"Warhammer 40,000: Space Marine",1
+2011,57000,NyxQuest: Kindred Spirits,1
+2011,57400,,1
+2011,58200,Jolly Rover,1
+2011,61500,Age of Wonders,1
+2011,61600,Zen Bound 2,1
+2011,62000,Flight Control HD,1
+2011,63200,Monday Night Combat,1
+2011,63500,Swords and Soldiers HD,1
+2011,63900,Fantasy Wars,1
+2011,65800,Dungeon Defenders,1
+2011,70300,VVVVVV,1
+2011,73210,Sengoku,1
+2011,80000,APOX,1
+2011,91700,E.Y.E: Divine Cybermancy,1
+2011,92300,A.R.E.S.: Extinction Agenda,1
+2011,93200,Revenge of the Titans,1
+2011,94200,Jamestown,1
+2011,97100,Section 8®: Prejudice™,1
+2011,98800,Dungeons of Dredmor,1
+2011,99910,Puzzle Pirates,1
+2011,107200,Space Pirates and Zombies,1
+2011,107300,Breath of Death VII,1
+2011,107310,Cthulhu Saves the World,1
+2011,107900,,1
+2011,111800,Blocks That Matter,1
+2011,113200,The Binding of Isaac,1
+2011,200900,,1
+2011,200910,Before the Echo,1
+2011,202710,,1
+2012,440,Team Fortress 2,184
+2012,105600,Terraria,28
+2012,4000,Garry's Mod,27
+2012,620,Portal 2,23
+2012,570,,20
+2012,550,Left 4 Dead 2,19
+2012,72850,,18
+2012,218230,PlanetSide 2,15
+2012,49520,Borderlands 2,13
+2012,200210,Realm of the Mad God,11
+2012,730,Counter-Strike: Global Offensive,9
+2012,8190,Just Cause 2,9
+2012,207610,The Walking Dead,9
+2012,240,Counter-Strike: Source,8
+2012,107100,Bastion,8
+2012,113200,The Binding of Isaac,8
+2012,209870,Blacklight: Retribution,8
+2012,630,Alien Swarm,7
+2012,8980,Borderlands,7
+2012,33930,Arma 2: Operation Arrowhead,7
+2012,220,Half-Life 2,6
+2012,400,Portal,6
+2012,17080,Tribes: Ascend,6
+2012,24240,PAYDAY™ The Heist,6
+2012,48700,Mount & Blade: Warband,6
+2012,65800,Dungeon Defenders,6
+2012,212680,FTL: Faster Than Light,6
+2012,300,Day of Defeat: Source,5
+2012,1840,Source Filmmaker,5
+2012,10180,Call of Duty®: Modern Warfare® 2,5
+2012,17410,Mirror's Edge™,5
+2012,35450,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,5
+2012,99900,Spiral Knights,5
+2012,104700,Super MNC,5
+2012,1250,Killing Floor,4
+2012,24200,DC Universe™ Online,4
+2012,31280,Poker Night at the Inventory,4
+2012,34330,,4
+2012,42680,,4
+2012,43110,,4
+2012,55230,Saints Row: The Third,4
+2012,204100,Max Payne 3,4
+2012,205100,Dishonored,4
+2012,8930,Sid Meier's Civilization® V,3
+2012,12900,AudioSurf,3
+2012,17500,Zombie Panic! Source,3
+2012,22370,Fallout 3: Game of the Year Edition,3
+2012,22380,Fallout: New Vegas,3
+2012,28050,,3
+2012,56400,,3
+2012,91310,,3
+2012,91700,E.Y.E: Divine Cybermancy,3
+2012,105430,,3
+2012,108710,Alan Wake,3
+2012,203810,,3
+2012,204360,Castle Crashers®,3
+2012,206210,Gotham City Impostors Free to Play,3
+2012,212180,,3
+2012,219640,Chivalry: Medieval Warfare,3
+2012,70,Half-Life,2
+2012,410,,2
+2012,500,Left 4 Dead,2
+2012,4560,Company of Heroes - Legacy Edition,2
+2012,6060,"Star Wars: Battlefront 2 (Classic, 2005)",2
+2012,6910,Deus Ex: Game of the Year Edition,2
+2012,7670,BioShock™,2
+2012,7940,Call of Duty® 4: Modern Warfare®,2
+2012,12120,Grand Theft Auto: San Andreas,2
+2012,17460,Mass Effect,2
+2012,21970,,2
+2012,24980,Mass Effect 2,2
+2012,40800,Super Meat Boy,2
+2012,40930,The Misadventures of P.B. Winterbottom,2
+2012,41500,Torchlight,2
+2012,42700,Call of Duty®: Black Ops,2
+2012,50300,Spec Ops: The Line,2
+2012,57300,Amnesia: The Dark Descent,2
+2012,57690,Tropico 4,2
+2012,107900,,2
+2012,109400,,2
+2012,113420,Fallen Earth Free2Play,2
+2012,200010,Quantum Conundrum,2
+2012,201790,Orcs Must Die! 2,2
+2012,203630,Warlock - Master of the Arcane,2
+2012,203850,,2
+2012,204300,Awesomenauts - the 2D moba,2
+2012,206440,To the Moon,2
+2012,206480,Dungeons & Dragons Online®,2
+2012,207250,Cubemen,2
+2012,208140,Endless Space® - Collection,2
+2012,215470,Primal Carnage,2
+2012,220240,Far Cry 3,2
+2012,20,Team Fortress Classic,1
+2012,380,Half-Life 2: Episode One,1
+2012,1510,Uplink,1
+2012,1520,DEFCON,1
+2012,2270,Wolfenstein 3D,1
+2012,2310,QUAKE,1
+2012,2450,Bloody Good Time,1
+2012,2600,Vampire: The Masquerade - Bloodlines,1
+2012,3320,Insaniquarium Deluxe,1
+2012,3700,Sniper Elite,1
+2012,3830,Psychonauts,1
+2012,4500,S.T.A.L.K.E.R.: Shadow of Chernobyl,1
+2012,4550,,1
+2012,4580,"Warhammer® 40,000: Dawn of War® - Dark Crusade",1
+2012,4760,Rome: Total War™ - Collection,1
+2012,6020,STAR WARS™ Jedi Knight - Jedi Academy™,1
+2012,6860,Hitman: Blood Money,1
+2012,7000,Tomb Raider: Legend,1
+2012,7520,Two Worlds II HD,1
+2012,7660,X-COM: Apocalypse,1
+2012,7830,Men of War™,1
+2012,9420,Supreme Commander: Forged Alliance,1
+2012,9860,,1
+2012,10150,Prototype™,1
+2012,10500,Empire: Total War™,1
+2012,10680,Aliens vs. Predator™,1
+2012,11020,TrackMania Nations Forever,1
+2012,12210,,1
+2012,12750,,1
+2012,13140,,1
+2012,13210,Unreal Tournament 3 Black,1
+2012,13230,Unreal Tournament 2004: Editor's Choice Edition,1
+2012,13520,Far Cry®,1
+2012,15320,IL-2 Sturmovik: 1946,1
+2012,15700,Oddworld: Abe's Oddysee®,1
+2012,16600,Trials 2: Second Edition,1
+2012,16870,Sid Meier's Civilization V: Gods and Kings,1
+2012,17330,Crysis Warhead®,1
+2012,17390,SPORE™,1
+2012,17480,Command & Conquer: Red Alert 3,1
+2012,17510,Age of Chivalry,1
+2012,17520,Synergy,1
+2012,20500,Red Faction Guerrilla Steam Edition,1
+2012,20510,S.T.A.L.K.E.R.: Clear Sky,1
+2012,20920,The Witcher 2: Assassins of Kings Enhanced Edition,1
+2012,21170,,1
+2012,22000,World of Goo,1
+2012,22110,,1
+2012,22200,Zeno Clash,1
+2012,22320,The Elder Scrolls III: Morrowind® Game of the Year Edition,1
+2012,24010,Train Simulator,1
+2012,24740,Burnout Paradise: The Ultimate Box,1
+2012,24790,Command & Conquer 3: Tiberium Wars,1
+2012,25800,Europa Universalis III Complete,1
+2012,26800,Braid,1
+2012,31270,,1
+2012,31290,Back to the Future: The Game,1
+2012,32340,LOOM™,1
+2012,32370,STAR WARS™ - Knights of the Old Republic™,1
+2012,32800,Lord of the Rings: War in the North,1
+2012,34030,Napoleon: Total War™,1
+2012,35110,,1
+2012,35140,Batman: Arkham Asylum Game of the Year Edition,1
+2012,35700,Trine Enchanted Edition,1
+2012,36150,Westward Collection,1
+2012,38240,,1
+2012,38400,Fallout: A Post Nuclear Role Playing Game,1
+2012,38830,,1
+2012,39800,Nation Red,1
+2012,40100,Supreme Commander 2,1
+2012,40390,Risen 2: Dark Waters,1
+2012,41800,Gratuitous Space Battles,1
+2012,42910,Magicka,1
+2012,43000,Front Mission Evolved,1
+2012,47870,Need For Speed: Hot Pursuit,1
+2012,48000,LIMBO,1
+2012,48220,Might & Magic: Heroes VI,1
+2012,48240,,1
+2012,50130,Mafia II,1
+2012,50620,Darksiders™,1
+2012,55040,Atom Zombie Smasher,1
+2012,55110,Red Faction®: Armageddon™,1
+2012,55140,MX vs. ATV Reflex,1
+2012,55150,"Warhammer 40,000: Space Marine",1
+2012,55370,Saints Row: The Third Initiation Station,1
+2012,57600,Tropico 3: Absolute Power,1
+2012,64000,Men of War: Assault Squad,1
+2012,70300,VVVVVV,1
+2012,71165,Streets of Rage 2,1
+2012,71270,,1
+2012,71340,Sonic Generations Collection,1
+2012,72000,Closure,1
+2012,73010,Cities in Motion,1
+2012,92800,SpaceChem,1
+2012,94000,Dinner Date,1
+2012,96300,,1
+2012,96400,,1
+2012,97000,Solar 2,1
+2012,97100,Section 8®: Prejudice™,1
+2012,98300,Toy Soldiers,1
+2012,98600,Demolition Inc.,1
+2012,99300,Renegade Ops,1
+2012,102600,Orcs Must Die!,1
+2012,102850,Warp,1
+2012,105700,Tobe's Vertical Adventure,1
+2012,107310,Cthulhu Saves the World,1
+2012,107800,Rochard,1
+2012,108800,Crysis 2 - Maximum Edition,1
+2012,113400,APB Reloaded,1
+2012,200510,XCOM: Enemy Unknown,1
+2012,200710,Torchlight II,1
+2012,200940,Sonic CD,1
+2012,202200,Galactic Civilizations® II: Ultimate Edition,1
+2012,202970,Call of Duty®: Black Ops II,1
+2012,203770,Crusader Kings II,1
+2012,204630,Retro City Rampage™ DX,1
+2012,204880,Sins of a Solar Empire®: Rebellion,1
+2012,205610,Port Royale 3,1
+2012,206500,AirMech Strike,1
+2012,207080,Indie Game: The Movie,1
+2012,207490,Rayman® Origins,1
+2012,207570,English Country Tune,1
+2012,207750,Symphony,1
+2012,208200,Doom 3: BFG Edition,1
+2012,208480,Assassin’s Creed® III,1
+2012,209270,Hero Academy,1
+2012,209690,Fieldrunners,1
+2012,211180,Unmechanical,1
+2012,211420,DARK SOULS™: Prepare To Die™ Edition,1
+2012,212500,The Lord of the Rings Online™,1
+2012,212800,Super Crate Box,1
+2012,213330,LEGO® Batman 2 DC Super Heroes™,1
+2012,214230,,1
+2012,214850,,1
+2012,219150,Hotline Miami,1
+2012,219740,,1
+2012,221080,,1
+2012,221260,Little Inferno,1
+2012,221640,Super Hexagon,1
+2012,222980,Dead Pixels,1
+2013,440,Team Fortress 2,458
+2013,4000,Garry's Mod,228
+2013,570,,150
+2013,550,Left 4 Dead 2,112
+2013,730,Counter-Strike: Global Offensive,106
+2013,72850,,97
+2013,105600,Terraria,89
+2013,211820,Starbound,82
+2013,49520,Borderlands 2,67
+2013,218620,,65
+2013,230410,Warframe,64
+2013,218230,PlanetSide 2,58
+2013,620,Portal 2,56
+2013,1250,Killing Floor,51
+2013,8870,BioShock Infinite,49
+2013,207610,The Walking Dead,49
+2013,221100,DayZ,46
+2013,224260,No More Room in Hell,42
+2013,8930,Sid Meier's Civilization® V,41
+2013,219640,Chivalry: Medieval Warfare,40
+2013,252490,Rust,34
+2013,8190,Just Cause 2,31
+2013,55230,Saints Row: The Third,29
+2013,236390,,29
+2013,113200,The Binding of Isaac,28
+2013,220,Half-Life 2,27
+2013,240,Counter-Strike: Source,27
+2013,203160,Tomb Raider,27
+2013,238960,,27
+2013,219740,,25
+2013,259080,Just Cause 2: Multiplayer Mod,25
+2013,221640,Super Hexagon,24
+2013,220200,Kerbal Space Program,23
+2013,204300,Awesomenauts - the 2D moba,21
+2013,206420,Saints Row IV,21
+2013,233720,Surgeon Simulator,21
+2013,209870,Blacklight: Retribution,19
+2013,212680,FTL: Faster Than Light,19
+2013,219150,Hotline Miami,19
+2013,200710,Torchlight II,18
+2013,35450,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,17
+2013,48700,Mount & Blade: Warband,17
+2013,99900,Spiral Knights,17
+2013,107410,Arma 3,17
+2013,200510,XCOM: Enemy Unknown,17
+2013,219890,Antichamber,17
+2013,220240,Far Cry 3,17
+2013,221910,The Stanley Parable,17
+2013,261030,The Walking Dead: Season 2,17
+2013,24240,PAYDAY™ The Heist,15
+2013,107100,Bastion,15
+2013,200260,Batman: Arkham City - Game of the Year Edition,15
+2013,202170,,15
+2013,205100,Dishonored,15
+2013,109600,Neverwinter,14
+2013,224540,Ace of Spades: Battle Builder,14
+2013,239820,Game Dev Tycoon,14
+2013,248820,Risk of Rain,14
+2013,33930,Arma 2: Operation Arrowhead,13
+2013,200210,Realm of the Mad God,13
+2013,212480,Sonic & All-Stars Racing Transformed,13
+2013,17080,Tribes: Ascend,12
+2013,22380,Fallout: New Vegas,12
+2013,42910,Magicka,12
+2013,50300,Spec Ops: The Line,12
+2013,113400,APB Reloaded,12
+2013,209000,Batman™: Arkham Origins,12
+2013,242050,Assassin’s Creed® IV Black Flag™,12
+2013,8980,Borderlands,11
+2013,48000,LIMBO,11
+2013,204360,Castle Crashers®,11
+2013,206190,Gunpoint,11
+2013,209160,Call of Duty®: Ghosts,11
+2013,214950,Total War™: ROME II - Emperor Edition,11
+2013,241600,Rogue Legacy,11
+2013,400,Portal,10
+2013,34330,,10
+2013,43160,,10
+2013,221260,Little Inferno,10
+2013,221380,Age of Empires II HD,10
+2013,226700,,10
+2013,239030,"Papers, Please",10
+2013,241540,State of Decay,10
+2013,630,Alien Swarm,9
+2013,6060,"Star Wars: Battlefront 2 (Classic, 2005)",9
+2013,51100,Tactical Intervention,9
+2013,65800,Dungeon Defenders,9
+2013,206500,AirMech Strike,9
+2013,211420,DARK SOULS™: Prepare To Die™ Edition,9
+2013,219830,King Arthur's Gold,9
+2013,224580,Arma II: DayZ Mod,9
+2013,244850,,9
+2013,250320,The Wolf Among Us,9
+2013,250420,8BitMMO,9
+2013,70,Half-Life,8
+2013,1840,Source Filmmaker,8
+2013,7670,BioShock™,8
+2013,12210,,8
+2013,12900,AudioSurf,8
+2013,17500,Zombie Panic! Source,8
+2013,39120,RIFT,8
+2013,42680,,8
+2013,91310,,8
+2013,104700,Super MNC,8
+2013,206210,Gotham City Impostors Free to Play,8
+2013,223710,Cry of Fear,8
+2013,227300,Euro Truck Simulator 2,8
+2013,230050,DLC Quest,8
+2013,232430,Gone Home,8
+2013,4920,Natural Selection 2,7
+2013,10180,Call of Duty®: Modern Warfare® 2,7
+2013,17460,Mass Effect,7
+2013,40800,Super Meat Boy,7
+2013,108710,Alan Wake,7
+2013,201790,Orcs Must Die! 2,7
+2013,202970,Call of Duty®: Black Ops II,7
+2013,203140,Hitman: Absolution™,7
+2013,203770,Crusader Kings II,7
+2013,203810,,7
+2013,208090,Loadout,7
+2013,208480,Assassin’s Creed® III,7
+2013,224600,Defiance,7
+2013,226980,,7
+2013,227100,Sniper Elite: Nazi Zombie Army,7
+2013,231430,Company of Heroes 2,7
+2013,234710,Poker Night 2,7
+2013,239350,Spelunky,7
+2013,251570,,7
+2013,500,Left 4 Dead,6
+2013,3830,Psychonauts,6
+2013,10500,Empire: Total War™,6
+2013,22370,Fallout 3: Game of the Year Edition,6
+2013,24200,DC Universe™ Online,6
+2013,24740,Burnout Paradise: The Ultimate Box,6
+2013,31280,Poker Night at the Inventory,6
+2013,35720,Trine 2: Complete Story,6
+2013,39140,FINAL FANTASY VII,6
+2013,70000,Dino D-Day,6
+2013,113020,Monaco: What's Yours Is Mine,6
+2013,204100,Max Payne 3,6
+2013,204450,Call of Juarez® Gunslinger,6
+2013,210770,Sanctum 2,6
+2013,215470,Primal Carnage,6
+2013,216150,MapleStory,6
+2013,220860,McPixel,6
+2013,222730,Reus,6
+2013,224760,FEZ,6
+2013,236090,Dust: An Elysian Tail,6
+2013,238320,Outlast,6
+2013,249130,LEGO® Marvel™ Super Heroes,6
+2013,320,Half-Life 2: Deathmatch,5
+2013,9900,Star Trek Online,5
+2013,10090,Call of Duty: World at War,5
+2013,12120,Grand Theft Auto: San Andreas,5
+2013,12750,,5
+2013,17410,Mirror's Edge™,5
+2013,20920,The Witcher 2: Assassins of Kings Enhanced Edition,5
+2013,24980,Mass Effect 2,5
+2013,32440,LEGO® Star Wars™ - The Complete Saga,5
+2013,41070,,5
+2013,209080,Guns of Icarus Online,5
+2013,218680,Scribblenauts Unlimited,5
+2013,220780,Thomas Was Alone,5
+2013,232910,TrackMania² Stadium,5
+2013,233130,Shadow Warrior,5
+2013,233450,Prison Architect,5
+2013,239660,Soldier Front 2,5
+2013,244870,Electronic Super Joy,5
+2013,265210,,5
+2013,4560,Company of Heroes - Legacy Edition,4
+2013,12200,Bully: Scholarship Edition,4
+2013,24860,,4
+2013,28050,,4
+2013,32800,Lord of the Rings: War in the North,4
+2013,35140,Batman: Arkham Asylum Game of the Year Edition,4
+2013,43110,,4
+2013,50650,,4
+2013,105450,Age of Empires® III: Complete Collection,4
+2013,207140,SpeedRunners,4
+2013,211400,Deadlight,4
+2013,211500,RaceRoom Racing Experience,4
+2013,212180,,4
+2013,212800,Super Crate Box,4
+2013,220260,Farming Simulator 2013 Titanium Edition,4
+2013,220440,DmC: Devil May Cry,4
+2013,222750,Wargame: Airland Battle,4
+2013,225140,,4
+2013,225260,Brutal Legend,4
+2013,228300,Remember Me,4
+2013,233270,Far Cry 3 - Blood Dragon,4
+2013,233860,,4
+2013,235800,Audiosurf 2,4
+2013,238430,Contagion,4
+2013,241640,,4
+2013,247730,Nether: Resurrected,4
+2013,380,Half-Life 2: Episode One,3
+2013,9200,RAGE,3
+2013,9480,Saints Row 2,3
+2013,17390,SPORE™,3
+2013,17470,Dead Space,3
+2013,17480,Command & Conquer: Red Alert 3,3
+2013,24010,Train Simulator,3
+2013,25000,Overgrowth,3
+2013,32360,The Secret of Monkey Island: Special Edition,3
+2013,33230,Assassin's Creed 2 Deluxe Edition,3
+2013,34900,Bad Rats: the Rats' Revenge,3
+2013,35480,Dwarfs!?,3
+2013,41500,Torchlight,3
+2013,42160,,3
+2013,44350,GRID 2,3
+2013,45100,Secret of the Magic Crystals,3
+2013,50130,Mafia II,3
+2013,55150,"Warhammer 40,000: Space Marine",3
+2013,56400,,3
+2013,57300,Amnesia: The Dark Descent,3
+2013,67370,The Darkness II,3
+2013,110800,L.A. Noire,3
+2013,113420,Fallen Earth Free2Play,3
+2013,203290,America's Army: Proving Grounds,3
+2013,205910,Tiny and Big: Grandpa's Leftovers,3
+2013,207230,ArcheBlade™,3
+2013,208140,Endless Space® - Collection,3
+2013,208580,STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™,3
+2013,209540,Strike Suit Zero,3
+2013,212070,Star Conflict,3
+2013,213650,Dwarfs - F2P,3
+2013,214560,Mark of the Ninja,3
+2013,216250,,3
+2013,217140,Rise of the Triad,3
+2013,218060,BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,3
+2013,221680,Rocksmith® 2014 Edition - Remastered,3
+2013,222880,Insurgency,3
+2013,223470,POSTAL 2,3
+2013,225080,Brothers - A Tale of Two Sons,3
+2013,226320,,3
+2013,227680,,3
+2013,232810,,3
+2013,234650,Shadowrun Returns,3
+2013,236370,Interstellar Marines,3
+2013,239220,,3
+2013,242880,"Sir, You Are Being Hunted",3
+2013,249050,Dungeon of the Endless™,3
+2013,250340,Blockland,3
+2013,250400,How to Survive,3
+2013,261980,Half-Life: Before,3
+2013,264140,Pixel Piracy,3
+2013,280,Half-Life: Source,2
+2013,300,Day of Defeat: Source,2
+2013,340,Half-Life 2: Lost Coast,2
+2013,2400,The Ship: Murder Party,2
+2013,3480,Peggle Deluxe,2
+2013,3483,Peggle Extreme,2
+2013,3900,Sid Meier's Civilization® IV,2
+2013,4570,"Warhammer® 40,000: Dawn of War® - Game of the Year Edition",2
+2013,4760,Rome: Total War™ - Collection,2
+2013,6310,The Longest Journey,2
+2013,8500,EVE Online,2
+2013,8600,RACE 07,2
+2013,10680,Aliens vs. Predator™,2
+2013,11020,TrackMania Nations Forever,2
+2013,11610,Dragon Nest,2
+2013,15120,Tom Clancy's Rainbow Six® Vegas 2,2
+2013,15700,Oddworld: Abe's Oddysee®,2
+2013,17520,Synergy,2
+2013,22100,Mount & Blade,2
+2013,22300,Fallout 3,2
+2013,22320,The Elder Scrolls III: Morrowind® Game of the Year Edition,2
+2013,22330,The Elder Scrolls IV: Oblivion® Game of the Year Edition,2
+2013,24960,Battlefield: Bad Company™ 2,2
+2013,25890,Hearts of Iron III,2
+2013,32370,STAR WARS™ - Knights of the Old Republic™,2
+2013,33440,,2
+2013,33900,Arma 2,2
+2013,34870,Sniper: Ghost Warrior 2,2
+2013,38600,Faerie Solitaire,2
+2013,38720,RUSH,2
+2013,38740,EDGE,2
+2013,38830,,2
+2013,39000,,2
+2013,39150,FINAL FANTASY VIII,2
+2013,40700,Machinarium,2
+2013,44320,,2
+2013,45760,Ultra Street Fighter® IV,2
+2013,47790,Medal of Honor™,2
+2013,47810,Dragon Age: Origins - Ultimate Edition,2
+2013,47890,The Sims™ 3,2
+2013,48720,Mount & Blade: With Fire & Sword,2
+2013,49540,,2
+2013,49600,Beat Hazard,2
+2013,50620,Darksiders™,2
+2013,55140,MX vs. ATV Reflex,2
+2013,57690,Tropico 4,2
+2013,58610,Wargame: European Escalation,2
+2013,63710,BIT.TRIP RUNNER,2
+2013,73020,Majesty 2 Collection,2
+2013,97000,Solar 2,2
+2013,98400,Hard Reset Extended Edition,2
+2013,99810,,2
+2013,102840,Shank 2,2
+2013,104900,ORION: Prelude,2
+2013,107800,Rochard,2
+2013,108600,Project Zomboid,2
+2013,200170,Worms Revolution,2
+2013,200900,,2
+2013,204880,Sins of a Solar Empire®: Rebellion,2
+2013,208670,Blades of Time,2
+2013,213610,Sonic Adventure 2,2
+2013,213850,Magic 2014 — Duels of the Planeswalkers,2
+2013,215280,Secret World Legends,2
+2013,215530,The Incredible Adventures of Van Helsing,2
+2013,218130,Dungeonland,2
+2013,219600,,2
+2013,219910,Edna & Harvey: Harvey's New Eyes,2
+2013,220700,RPG Maker VX Ace,2
+2013,224500,Gnomoria,2
+2013,224820,Super House of Dead Ninjas,2
+2013,227480,God Mode,2
+2013,228260,Fallen Enchantress: Legendary Heroes,2
+2013,233250,,2
+2013,233980,UnEpic,2
+2013,235600,Tom Clancy’s Splinter Cell Blacklist,2
+2013,236850,Europa Universalis IV,2
+2013,237310,Elsword,2
+2013,237630,DuckTales: Remastered,2
+2013,238070,,2
+2013,238260,Pinball Arcade,2
+2013,239070,Hammerwatch,2
+2013,239800,Bleed,2
+2013,241720,Guncraft,2
+2013,242570,Space Hulk,2
+2013,242860,Verdun,2
+2013,245130,,2
+2013,245170,Skullgirls,2
+2013,248630,Kingdoms Rise,2
+2013,248650,Draw a Stickman: EPIC,2
+2013,249870,Scribblenauts Unmasked: A DC Comics Adventure,2
+2013,253030,,2
+2013,256410,,2
+2013,259530,Savant - Ascent,2
+2013,10,Counter-Strike,1
+2013,30,Day of Defeat,1
+2013,50,Half-Life: Opposing Force,1
+2013,60,Ricochet,1
+2013,80,Counter-Strike: Condition Zero,1
+2013,360,Half-Life Deathmatch: Source,1
+2013,420,Half-Life 2: Episode Two,1
+2013,1200,Red Orchestra: Ostfront 41-45,1
+2013,1520,DEFCON,1
+2013,1690,Space Empires V,1
+2013,1930,Two Worlds Epic Edition,1
+2013,2640,Call of Duty: United Offensive,1
+2013,2700,RollerCoaster Tycoon® 3: Platinum,1
+2013,2870,X Rebirth,1
+2013,3720,Evil Genius,1
+2013,3730,Aliens versus Predator Classic 2000,1
+2013,4540,,1
+2013,4850,Cossacks: Back to War,1
+2013,6000,STAR WARS™ Republic Commando™,1
+2013,6220,FlatOut,1
+2013,6420,Nexus - The Jupiter Incident,1
+2013,6860,Hitman: Blood Money,1
+2013,6910,Deus Ex: Game of the Year Edition,1
+2013,7510,X-Blades,1
+2013,7730,X-COM: Interceptor,1
+2013,7940,Call of Duty® 4: Modern Warfare®,1
+2013,8340,Strong Bad's Cool Game for Attractive People: Season 1,1
+2013,8800,Civilization IV: Beyond the Sword,1
+2013,8850,BioShock® 2,1
+2013,9180,Commander Keen,1
+2013,9350,Supreme Commander,1
+2013,9420,Supreme Commander: Forged Alliance,1
+2013,9500,Gish,1
+2013,10150,Prototype™,1
+2013,11360,Chains,1
+2013,12100,Grand Theft Auto III,1
+2013,12110,Grand Theft Auto: Vice City,1
+2013,12140,Max Payne,1
+2013,12220,Grand Theft Auto: Episodes from Liberty City,1
+2013,12360,FlatOut: Ultimate Carnage,1
+2013,12800,,1
+2013,13140,,1
+2013,15130,Beyond Good and Evil™,1
+2013,15620,"Warhammer 40,000: Dawn of War II",1
+2013,17450,Dragon Age: Origins,1
+2013,17510,Age of Chivalry,1
+2013,17570,"Pirates, Vikings, and Knights II",1
+2013,17580,Dystopia,1
+2013,17700,INSURGENCY: Modern Infantry Combat,1
+2013,17710,Nuclear Dawn,1
+2013,18000,"Precipice of Darkness, Episode One",1
+2013,18120,Unstoppable Gorg,1
+2013,19680,,1
+2013,19900,Far Cry® 2: Fortune's Edition,1
+2013,20530,Red Faction,1
+2013,20570,"Warhammer® 40,000: Dawn of War® II Chaos Rising",1
+2013,21690,Resident Evil™ 5/ Biohazard 5®,1
+2013,21780,Driver® Parallel Lines,1
+2013,21970,,1
+2013,22000,World of Goo,1
+2013,22180,Penumbra Overture,1
+2013,22600,Worms Reloaded,1
+2013,23310,The Last Remnant™,1
+2013,24660,,1
+2013,24800,Command & Conquer: Red Alert 3 - Uprising,1
+2013,24810,Command & Conquer 3: Kane's Wrath,1
+2013,25500,Cricket Revolution,1
+2013,31270,,1
+2013,31290,Back to the Future: The Game,1
+2013,31740,,1
+2013,32500,STAR WARS™: The Force Unleashed™ II,1
+2013,33680,eversion,1
+2013,34010,Alpha Protocol™,1
+2013,34030,Napoleon: Total War™,1
+2013,34880,,1
+2013,35420,Defence Alliance 2,1
+2013,35700,Trine Enchanted Edition,1
+2013,38460,MDK 2,1
+2013,38900,,1
+2013,39160,Dungeon Siege III,1
+2013,39510,,1
+2013,39800,Nation Red,1
+2013,40100,Supreme Commander 2,1
+2013,41000,Serious Sam HD: The First Encounter,1
+2013,41010,,1
+2013,41700,S.T.A.L.K.E.R.: Call of Pripyat,1
+2013,41740,Cargo! The Quest for Gravity,1
+2013,41800,Gratuitous Space Battles,1
+2013,42140,Hamilton's Great Adventure,1
+2013,42700,Call of Duty®: Black Ops,1
+2013,47410,Stronghold Kingdoms,1
+2013,47780,Dead Space™ 2,1
+2013,47870,Need For Speed: Hot Pursuit,1
+2013,57900,Duke Nukem Forever,1
+2013,61310,Fractal: Make Blooms Not War,1
+2013,61600,Zen Bound 2,1
+2013,63200,Monday Night Combat,1
+2013,63380,Sniper Elite V2,1
+2013,63700,BIT.TRIP BEAT,1
+2013,64000,Men of War: Assault Squad,1
+2013,70300,VVVVVV,1
+2013,72000,Closure,1
+2013,72200,Universe Sandbox,1
+2013,73170,Darkest Hour: A Hearts of Iron Game,1
+2013,91330,Iron Front: Digital War Edition,1
+2013,91900,Post Apocalyptic Mayhem,1
+2013,92500,,1
+2013,92800,SpaceChem,1
+2013,94200,Jamestown,1
+2013,95300,Capsized,1
+2013,96300,,1
+2013,96800,Nexuiz,1
+2013,98500,Naval Warfare,1
+2013,99300,Renegade Ops,1
+2013,102500,Kingdoms of Amalur: Reckoning™,1
+2013,102700,A.V.A. Alliance of Valiant Arms™,1
+2013,104000,iBomber Defense,1
+2013,104600,Portal 2 - The Final Hours,1
+2013,105300,Critical Mass,1
+2013,105400,,1
+2013,105430,,1
+2013,107200,Space Pirates and Zombies,1
+2013,108800,Crysis 2 - Maximum Edition,1
+2013,113204,Binding of Isaac: Wrath of the Lamb,1
+2013,201420,Toki Tori 2+,1
+2013,201830,,1
+2013,202200,Galactic Civilizations® II: Ultimate Edition,1
+2013,202310,Ridge Racer™ Unbounded,1
+2013,203650,Sonic the Hedgehog 4 - Episode II,1
+2013,203750,Binary Domain,1
+2013,203850,,1
+2013,204030,Fable - The Lost Chapters,1
+2013,204080,The Showdown Effect,1
+2013,204240,The Bridge,1
+2013,205350,,1
+2013,206440,To the Moon,1
+2013,206480,Dungeons & Dragons Online®,1
+2013,206690,iBomber Defense Pacific,1
+2013,207080,Indie Game: The Movie,1
+2013,207170,Legend of Grimrock,1
+2013,207250,Cubemen,1
+2013,207400,eXceed 3rd - Jade Penetrate Black Package,1
+2013,207420,Wizorb,1
+2013,207490,Rayman® Origins,1
+2013,207890,,1
+2013,207930,Sacred Citadel,1
+2013,208200,Doom 3: BFG Edition,1
+2013,208500,F1 2012™,1
+2013,209060,Drunken Robot Pornography,1
+2013,209340,,1
+2013,209370,Analogue: A Hate Story,1
+2013,209520,Mini Motor Racing EVO,1
+2013,209670,Cortex Command,1
+2013,209830,Lone Survivor: The Director's Cut,1
+2013,212160,Vindictus,1
+2013,212410,Inversion™,1
+2013,212630,Tom Clancy's Ghost Recon: Future Soldier™,1
+2013,214230,,1
+2013,214420,Gear Up,1
+2013,214510,LEGO The Lord of the Rings,1
+2013,214630,Call of Duty: Black Ops - Mac Edition,1
+2013,214790,The Basement Collection,1
+2013,214850,,1
+2013,214970,Intrusion 2,1
+2013,215670,Home,1
+2013,215870,Dungeon-Party,1
+2013,216910,Of Orcs And Men,1
+2013,217200,Worms Armageddon,1
+2013,218310,,1
+2013,218410,Defender's Quest: Valley of the Forgotten (DX edition),1
+2013,218820,Mercenary Kings,1
+2013,219190,Ultratron,1
+2013,219340,The Banner Saga: Factions,1
+2013,219800,,1
+2013,219990,Grim Dawn,1
+2013,220050,,1
+2013,220160,Trials Evolution: Gold Edition,1
+2013,220460,Cargo Commander,1
+2013,220900,Jack Lumber,1
+2013,221790,,1
+2013,221810,The Cave,1
+2013,222980,Dead Pixels,1
+2013,223390,,1
+2013,223510,Miasmata,1
+2013,223630,,1
+2013,223750,,1
+2013,224060,,1
+2013,224320,,1
+2013,224420,,1
+2013,224960,Tomb Raider I,1
+2013,225160,Shadow Warrior Classic Redux,1
+2013,225420,Cities in Motion 2,1
+2013,226740,Monster Loves You!,1
+2013,226960,Ironclad Tactics,1
+2013,227180,Kingdom Wars,1
+2013,227280,,1
+2013,227860,Castle Story,1
+2013,228280,Baldur's Gate: Enhanced Edition,1
+2013,230310,Akaneiro: Demon Hunters,1
+2013,230940,,1
+2013,231060,Ragnarok Online 2,1
+2013,231140,Cities XL Platinum,1
+2013,231160,The Swapper,1
+2013,231180,,1
+2013,231250,,1
+2013,231310,MirrorMoon EP,1
+2013,232010,Euro Truck Simulator,1
+2013,233370,The Raven - Legacy of a Master Thief,1
+2013,233470,Evoland,1
+2013,234080,Castlevania: Lords of Shadow – Ultimate Edition,1
+2013,234190,Receiver,1
+2013,234310,,1
+2013,234330,Marvel Puzzle Quest,1
+2013,234530,,1
+2013,235360,Prime World: Defenders,1
+2013,235400,King’s Bounty: Legions,1
+2013,235760,,1
+2013,235980,Tetrobot and Co.,1
+2013,237110,Mortal Kombat Komplete Edition,1
+2013,238010,Deus Ex: Human Revolution - Director's Cut,1
+2013,238170,,1
+2013,238280,,1
+2013,239700,Hate Plus,1
+2013,240380,,1
+2013,240570,,1
+2013,240760,Wasteland 2: Director's Cut,1
+2013,242550,Rayman® Legends,1
+2013,242700,Injustice: Gods Among Us Ultimate Edition,1
+2013,242800,Day One : Garry's Incident,1
+2013,243120,Betrayer,1
+2013,244210,,1
+2013,244730,Divekick,1
+2013,244930,SNOW,1
+2013,246300,Paranormal,1
+2013,248350,Omegalodon,1
+2013,248800,Dysfunctional Systems: Learning to Manage Chaos,1
+2013,249950,Forge Quest,1
+2013,250380,Knock-knock,1
+2013,250500,Super Amazing Wagon Adventure,1
+2013,250580,Paranautical Activity: Deluxe Atonement Edition,1
+2013,251370,Escape Goat,1
+2013,251990,Long Live The Queen,1
+2013,252410,SteamWorld Dig,1
+2013,253610,Wrack,1
+2013,253770,Bus-Simulator 2012,1
+2013,254440,Pool Nation,1
+2013,257750,Bloody Trapland,1
+2013,258200,Talisman: Prologue,1
+2013,259390,Ballpoint Universe - Infinite,1
+2013,259700,Dead Sky,1
+2013,262940,Broken Sword 5 - the Serpent's Curse,1
+2014,440,Team Fortress 2,1036
+2014,730,Counter-Strike: Global Offensive,642
+2014,4000,Garry's Mod,558
+2014,570,,426
+2014,304930,Unturned,393
+2014,252490,Rust,325
+2014,218620,,296
+2014,221100,DayZ,245
+2014,49520,Borderlands 2,224
+2014,72850,,216
+2014,230410,Warframe,203
+2014,105600,Terraria,195
+2014,208090,Loadout,175
+2014,550,Left 4 Dead 2,161
+2014,265930,Goat Simulator,147
+2014,8930,Sid Meier's Civilization® V,138
+2014,244850,,134
+2014,211820,Starbound,125
+2014,218230,PlanetSide 2,115
+2014,301520,Robocraft,107
+2014,620,Portal 2,106
+2014,8870,BioShock Infinite,105
+2014,242760,The Forest,102
+2014,107410,Arma 3,92
+2014,236390,,91
+2014,224260,No More Room in Hell,79
+2014,1250,Killing Floor,78
+2014,220,Half-Life 2,76
+2014,222880,Insurgency,76
+2014,113200,The Binding of Isaac,74
+2014,48700,Mount & Blade: Warband,73
+2014,240,Counter-Strike: Source,70
+2014,200210,Realm of the Mad God,70
+2014,238460,BattleBlock Theater®,70
+2014,243870,,65
+2014,22380,Fallout: New Vegas,64
+2014,204360,Castle Crashers®,64
+2014,206420,Saints Row IV,61
+2014,219740,,60
+2014,265630,Fistful of Frags,59
+2014,413150,Stardew Valley,59
+2014,221640,Super Hexagon,57
+2014,271290,,57
+2014,213670,South Park™: The Stick of Truth™,56
+2014,203160,Tomb Raider,54
+2014,204300,Awesomenauts - the 2D moba,54
+2014,212680,FTL: Faster Than Light,54
+2014,8190,Just Cause 2,53
+2014,220200,Kerbal Space Program,53
+2014,104900,ORION: Prelude,50
+2014,219640,Chivalry: Medieval Warfare,49
+2014,221910,The Stanley Parable,49
+2014,248820,Risk of Rain,49
+2014,251570,,49
+2014,202970,Call of Duty®: Black Ops II,48
+2014,227300,Euro Truck Simulator 2,47
+2014,241930,Middle-earth™: Shadow of Mordor™,47
+2014,261030,The Walking Dead: Season 2,47
+2014,205100,Dishonored,46
+2014,219150,Hotline Miami,45
+2014,379720,DOOM,44
+2014,1840,Source Filmmaker,43
+2014,24240,PAYDAY™ The Heist,43
+2014,239820,Game Dev Tycoon,43
+2014,250600,The Plan,43
+2014,227940,Heroes & Generals,42
+2014,6060,"Star Wars: Battlefront 2 (Classic, 2005)",41
+2014,99900,Spiral Knights,40
+2014,209870,Blacklight: Retribution,40
+2014,200510,XCOM: Enemy Unknown,39
+2014,220240,Far Cry 3,39
+2014,250900,The Binding of Isaac: Rebirth,39
+2014,275850,No Man's Sky,39
+2014,383870,Firewatch,39
+2014,211420,DARK SOULS™: Prepare To Die™ Edition,38
+2014,55230,Saints Row: The Third,37
+2014,209080,Guns of Icarus Online,36
+2014,236430,DARK SOULS™ II,36
+2014,238960,,36
+2014,239030,"Papers, Please",36
+2014,221380,Age of Empires II HD,35
+2014,231430,Company of Heroes 2,35
+2014,250320,The Wolf Among Us,35
+2014,222900,,34
+2014,233720,Surgeon Simulator,34
+2014,245550,Free to Play,34
+2014,274190,Broforce,34
+2014,200710,Torchlight II,33
+2014,241540,State of Decay,33
+2014,248570,Toribash,33
+2014,239220,,32
+2014,319510,Five Nights at Freddy's,32
+2014,35450,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,31
+2014,207610,The Walking Dead,30
+2014,224540,Ace of Spades: Battle Builder,30
+2014,630,Alien Swarm,29
+2014,206190,Gunpoint,29
+2014,223710,Cry of Fear,29
+2014,270550,Yet Another Zombie Defense,29
+2014,374320,DARK SOULS™ III,29
+2014,10180,Call of Duty®: Modern Warfare® 2,28
+2014,12210,,28
+2014,17410,Mirror's Edge™,28
+2014,33930,Arma 2: Operation Arrowhead,28
+2014,42910,Magicka,28
+2014,63380,Sniper Elite V2,28
+2014,107100,Bastion,28
+2014,242920,Banished,28
+2014,437220,,28
+2014,206210,Gotham City Impostors Free to Play,27
+2014,238320,Outlast,27
+2014,400,Portal,26
+2014,51100,Tactical Intervention,26
+2014,113400,APB Reloaded,26
+2014,233250,,26
+2014,237930,Transistor,26
+2014,7670,BioShock™,25
+2014,206440,To the Moon,25
+2014,214950,Total War™: ROME II - Emperor Edition,25
+2014,223470,POSTAL 2,25
+2014,236850,Europa Universalis IV,25
+2014,427520,Factorio,25
+2014,206500,AirMech Strike,24
+2014,233450,Prison Architect,24
+2014,259080,Just Cause 2: Multiplayer Mod,24
+2014,268500,XCOM® 2,24
+2014,108600,Project Zomboid,23
+2014,203140,Hitman: Absolution™,23
+2014,246620,Plague Inc: Evolved,23
+2014,381210,,23
+2014,43160,,22
+2014,202170,,22
+2014,203770,Crusader Kings II,22
+2014,209000,Batman™: Arkham Origins,22
+2014,210770,Sanctum 2,22
+2014,238430,Contagion,22
+2014,200260,Batman: Arkham City - Game of the Year Edition,21
+2014,201810,Wolfenstein: The New Order,21
+2014,212800,Super Crate Box,21
+2014,225080,Brothers - A Tale of Two Sons,21
+2014,236090,Dust: An Elysian Tail,21
+2014,264200,One Finger Death Punch,21
+2014,268750,Magicite,21
+2014,291480,Warface,21
+2014,332800,Five Nights at Freddy's 2,21
+2014,17390,SPORE™,20
+2014,24200,DC Universe™ Online,20
+2014,113020,Monaco: What's Yours Is Mine,20
+2014,214490,Alien: Isolation,20
+2014,247730,Nether: Resurrected,20
+2014,261640,Borderlands: The Pre-Sequel,20
+2014,50300,Spec Ops: The Line,19
+2014,219890,Antichamber,19
+2014,241600,Rogue Legacy,19
+2014,243470,Watch_Dogs™,19
+2014,245170,Skullgirls,19
+2014,322500,SUPERHOT,19
+2014,433340,Slime Rancher,19
+2014,70,Half-Life,18
+2014,22370,Fallout 3: Game of the Year Edition,18
+2014,209650,Call of Duty®: Advanced Warfare - Gold Edition,18
+2014,218680,Scribblenauts Unlimited,18
+2014,224480,Octodad: Dadliest Catch,18
+2014,242050,Assassin’s Creed® IV Black Flag™,18
+2014,263280,SPINTIRES™,18
+2014,282440,Quake Live™,18
+2014,496920,,18
+2014,91310,,17
+2014,209160,Call of Duty®: Ghosts,17
+2014,232430,Gone Home,17
+2014,234670,NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD,17
+2014,242860,Verdun,17
+2014,261820,Estranged: Act I,17
+2014,364360,Total War: WARHAMMER,17
+2014,365590,Tom Clancy’s The Division™,17
+2014,10,Counter-Strike,16
+2014,10090,Call of Duty: World at War,16
+2014,34330,,16
+2014,214560,Mark of the Ninja,16
+2014,228380,Next Car Game: Wreckfest,16
+2014,235460,METAL GEAR RISING: REVENGEANCE,16
+2014,242720,GunZ 2: The Second Duel,16
+2014,262410,World of Guns: Gun Disassembly,16
+2014,4920,Natural Selection 2,15
+2014,105450,Age of Empires® III: Complete Collection,15
+2014,204450,Call of Juarez® Gunslinger,15
+2014,204880,Sins of a Solar Empire®: Rebellion,15
+2014,207140,SpeedRunners,15
+2014,212070,Star Conflict,15
+2014,264140,Pixel Piracy,15
+2014,312990,The Expendabros,15
+2014,12200,Bully: Scholarship Edition,14
+2014,20920,The Witcher 2: Assassins of Kings Enhanced Edition,14
+2014,24960,Battlefield: Bad Company™ 2,14
+2014,33230,Assassin's Creed 2 Deluxe Edition,14
+2014,40800,Super Meat Boy,14
+2014,70000,Dino D-Day,14
+2014,204100,Max Payne 3,14
+2014,224600,Defiance,14
+2014,224760,FEZ,14
+2014,226700,,14
+2014,245470,Democracy 3,14
+2014,249130,LEGO® Marvel™ Super Heroes,14
+2014,263760,Turbo Dismount™,14
+2014,270880,American Truck Simulator,14
+2014,277430,Halo: Spartan Assault,14
+2014,35720,Trine 2: Complete Story,13
+2014,42680,,13
+2014,57690,Tropico 4,13
+2014,201790,Orcs Must Die! 2,13
+2014,220780,Thomas Was Alone,13
+2014,227700,,13
+2014,236370,Interstellar Marines,13
+2014,238010,Deus Ex: Human Revolution - Director's Cut,13
+2014,246420,Kingdom Rush,13
+2014,286080,Thinking with Time Machine,13
+2014,304430,,13
+2014,322330,Don't Starve Together,13
+2014,337000,Deus Ex: Mankind Divided,13
+2014,24740,Burnout Paradise: The Ultimate Box,12
+2014,34900,Bad Rats: the Rats' Revenge,12
+2014,56400,,12
+2014,94400,Nidhogg,12
+2014,226320,,12
+2014,232790,Broken Age,12
+2014,233130,Shadow Warrior,12
+2014,235600,Tom Clancy’s Splinter Cell Blacklist,12
+2014,261180,Lethal League,12
+2014,287450,Rise of Nations: Extended Edition,12
+2014,289650,Assassin's Creed® Unity,12
+2014,290080,Life is Feudal: Your Own,12
+2014,294100,RimWorld,12
+2014,313340,Mountain,12
+2014,313740,,12
+2014,317360,Double Action: Boogaloo,12
+2014,424280,Iron Snout,12
+2014,17080,Tribes: Ascend,11
+2014,25000,Overgrowth,11
+2014,31280,Poker Night at the Inventory,11
+2014,35140,Batman: Arkham Asylum Game of the Year Edition,11
+2014,42700,Call of Duty®: Black Ops,11
+2014,47890,The Sims™ 3,11
+2014,109600,Neverwinter,11
+2014,219830,King Arthur's Gold,11
+2014,230050,DLC Quest,11
+2014,233270,Far Cry 3 - Blood Dragon,11
+2014,236870,HITMAN™,11
+2014,239160,Thief,11
+2014,239660,Soldier Front 2,11
+2014,260230,Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™,11
+2014,263440,,11
+2014,266840,,11
+2014,313160,Farming Simulator 15,11
+2014,330830,Tales from the Borderlands,11
+2014,431240,Golf With Your Friends,11
+2014,9480,Saints Row 2,10
+2014,10500,Empire: Total War™,10
+2014,47810,Dragon Age: Origins - Ultimate Edition,10
+2014,65980,Sid Meier's Civilization®: Beyond Earth™,10
+2014,202090,,10
+2014,204030,Fable - The Lost Chapters,10
+2014,207230,ArcheBlade™,10
+2014,225840,Sven Co-op,10
+2014,250400,How to Survive,10
+2014,281990,Stellaris,10
+2014,286100,You Have to Win the Game,10
+2014,305620,The Long Dark,10
+2014,311340,METAL GEAR SOLID V: GROUND ZEROES,10
+2014,331470,Everlasting Summer,10
+2014,367500,Dragon's Dogma: Dark Arisen,10
+2014,394360,Hearts of Iron IV,10
+2014,412880,Drift Streets Japan,10
+2014,427730,Who's Your Daddy,10
+2014,444090,Paladins®,10
+2014,300,Day of Defeat: Source,9
+2014,2400,The Ship: Murder Party,9
+2014,20900,The Witcher: Enhanced Edition Director's Cut,9
+2014,22300,Fallout 3,9
+2014,39120,RIFT,9
+2014,43110,,9
+2014,45760,Ultra Street Fighter® IV,9
+2014,50130,Mafia II,9
+2014,57300,Amnesia: The Dark Descent,9
+2014,102500,Kingdoms of Amalur: Reckoning™,9
+2014,216150,MapleStory,9
+2014,224580,Arma II: DayZ Mod,9
+2014,230230,Divinity: Original Sin (Classic),9
+2014,234710,Poker Night 2,9
+2014,250260,Jazzpunk: Director's Cut,9
+2014,253030,,9
+2014,253430,,9
+2014,253710,theHunter Classic,9
+2014,265550,Dead Rising 3 Apocalypse Edition,9
+2014,273350,Evolve Stage 2,9
+2014,289130,Endless Legend™,9
+2014,387990,Scrap Mechanic,9
+2014,391220,,9
+2014,4700,Medieval II: Total War™,8
+2014,10680,Aliens vs. Predator™,8
+2014,12900,AudioSurf,8
+2014,15700,Oddworld: Abe's Oddysee®,8
+2014,32370,STAR WARS™ - Knights of the Old Republic™,8
+2014,39000,,8
+2014,44350,GRID 2,8
+2014,65930,The Bureau: XCOM Declassified,8
+2014,113420,Fallen Earth Free2Play,8
+2014,203290,America's Army: Proving Grounds,8
+2014,211400,Deadlight,8
+2014,212500,The Lord of the Rings Online™,8
+2014,214770,Guacamelee! Gold Edition,8
+2014,214850,,8
+2014,225140,,8
+2014,225600,Blade Symphony,8
+2014,234190,Receiver,8
+2014,238090,Sniper Elite 3,8
+2014,242880,"Sir, You Are Being Hunted",8
+2014,244210,,8
+2014,246700,Strike Vector,8
+2014,250760,Shovel Knight: Treasure Trove,8
+2014,251060,Wargame: Red Dragon,8
+2014,265210,,8
+2014,268420,Aura Kingdom,8
+2014,274940,Depth,8
+2014,298630,The Escapists,8
+2014,302380,Floating Point,8
+2014,313730,,8
+2014,314160,Microsoft Flight Simulator X: Steam Edition,8
+2014,322070,,8
+2014,365300,Transmissions: Element 120,8
+2014,394230,Battleborn,8
+2014,405640,Pony Island,8
+2014,406150,Refunct,8
+2014,433850,H1Z1,8
+2014,434570,Blood and Bacon,8
+2014,7940,Call of Duty® 4: Modern Warfare®,7
+2014,9420,Supreme Commander: Forged Alliance,7
+2014,9900,Star Trek Online,7
+2014,12120,Grand Theft Auto: San Andreas,7
+2014,17520,Synergy,7
+2014,22330,The Elder Scrolls IV: Oblivion® Game of the Year Edition,7
+2014,39140,FINAL FANTASY VII,7
+2014,40100,Supreme Commander 2,7
+2014,42160,,7
+2014,48190,Assassin’s Creed® Brotherhood,7
+2014,65800,Dungeon Defenders,7
+2014,91600,Sanctum,7
+2014,212160,Vindictus,7
+2014,212180,,7
+2014,216250,,7
+2014,218060,BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,7
+2014,225260,Brutal Legend,7
+2014,231160,The Swapper,7
+2014,235800,Audiosurf 2,7
+2014,239350,Spelunky,7
+2014,245620,Tropico 5,7
+2014,250180,METAL SLUG 3,7
+2014,251870,Go! Go! Nippon! ~My First Trip to Japan~,7
+2014,251990,Long Live The Queen,7
+2014,264380,Narcissu 1st & 2nd,7
+2014,273110,Counter-Strike Nexon: Zombies,7
+2014,286340,FarSky,7
+2014,288470,Fable Anniversary,7
+2014,294860,Valkyria Chronicles™,7
+2014,323500,PAYDAY 2: Hotline Miami,7
+2014,334660,,7
+2014,394690,Tower Unite,7
+2014,427270,Orcs Must Die! Unchained,7
+2014,498240,Batman - The Telltale Series,7
+2014,420,Half-Life 2: Episode Two,6
+2014,4580,"Warhammer® 40,000: Dawn of War® - Dark Crusade",6
+2014,8980,Borderlands,6
+2014,11020,TrackMania Nations Forever,6
+2014,11610,Dragon Nest,6
+2014,24010,Train Simulator,6
+2014,34030,Napoleon: Total War™,6
+2014,47410,Stronghold Kingdoms,6
+2014,48240,,6
+2014,64000,Men of War: Assault Squad,6
+2014,65790,ARMA: Cold War Assault,6
+2014,67370,The Darkness II,6
+2014,70400,Recettear: An Item Shop's Tale,6
+2014,104700,Super MNC,6
+2014,215470,Primal Carnage,6
+2014,221680,Rocksmith® 2014 Edition - Remastered,6
+2014,233630,,6
+2014,236450,PAC-MAN™ Championship Edition DX+,6
+2014,237310,Elsword,6
+2014,238280,,6
+2014,242680,Nuclear Throne,6
+2014,242700,Injustice: Gods Among Us Ultimate Edition,6
+2014,246900,,6
+2014,247020,"Cook, Serve, Delicious!",6
+2014,250420,8BitMMO,6
+2014,252330,Slender: The Arrival,6
+2014,257710,Max Gentlemen,6
+2014,261760,Lichdom: Battlemage,6
+2014,270170,Depression Quest,6
+2014,270210,Melody's Escape,6
+2014,274920,FaceRig,6
+2014,298260,Only If,6
+2014,371660,Far Cry® Primal,6
+2014,372000,Tree of Savior (English Ver.),6
+2014,376570,WildStar,6
+2014,433950,Bit Blaster XL,6
+2014,434260,My Name is Mayo,6
+2014,3830,Psychonauts,5
+2014,4560,Company of Heroes - Legacy Edition,5
+2014,6020,STAR WARS™ Jedi Knight - Jedi Academy™,5
+2014,6910,Deus Ex: Game of the Year Edition,5
+2014,8850,BioShock® 2,5
+2014,12100,Grand Theft Auto III,5
+2014,12110,Grand Theft Auto: Vice City,5
+2014,17460,Mass Effect,5
+2014,17470,Dead Space,5
+2014,17570,"Pirates, Vikings, and Knights II",5
+2014,22320,The Elder Scrolls III: Morrowind® Game of the Year Edition,5
+2014,33440,,5
+2014,39150,FINAL FANTASY VIII,5
+2014,49600,Beat Hazard,5
+2014,57900,Duke Nukem Forever,5
+2014,63710,BIT.TRIP RUNNER,5
+2014,96100,Defy Gravity Extended,5
+2014,108710,Alan Wake,5
+2014,108800,Crysis 2 - Maximum Edition,5
+2014,204630,Retro City Rampage™ DX,5
+2014,208480,Assassin’s Creed® III,5
+2014,208580,STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™,5
+2014,209060,Drunken Robot Pornography,5
+2014,209670,Cortex Command,5
+2014,212480,Sonic & All-Stars Racing Transformed,5
+2014,213650,Dwarfs - F2P,5
+2014,213850,Magic 2014 — Duels of the Planeswalkers,5
+2014,214190,Minimum,5
+2014,214830,Half Minute Hero: Super Mega Neo Climax Ultimate Boy,5
+2014,220160,Trials Evolution: Gold Edition,5
+2014,220700,RPG Maker VX Ace,5
+2014,221260,Little Inferno,5
+2014,222750,Wargame: Airland Battle,5
+2014,227860,Castle Story,5
+2014,233150,LUFTRAUSERS,5
+2014,233470,Evoland,5
+2014,237110,Mortal Kombat Komplete Edition,5
+2014,239070,Hammerwatch,5
+2014,244870,Electronic Super Joy,5
+2014,245130,,5
+2014,250500,Super Amazing Wagon Adventure,5
+2014,250620,Among the Sleep - Enhanced Edition,5
+2014,256290,Child of Light,5
+2014,257730,Infinity Wars: Animated Trading Card Game,5
+2014,263540,Villagers and Heroes,5
+2014,266010,LYNE,5
+2014,274310,Always Sometimes Monsters,5
+2014,308420,Ziggurat,5
+2014,330710,,5
+2014,353370,Steam Controller,5
+2014,373770,LiEat,5
+2014,442080,Riders of Icarus,5
+2014,461560,MANDAGON,5
+2014,500,Left 4 Dead,4
+2014,2990,FlatOut 2™,4
+2014,3730,Aliens versus Predator Classic 2000,4
+2014,4760,Rome: Total War™ - Collection,4
+2014,11280,Penguins Arena: Sedna's World,4
+2014,15620,"Warhammer 40,000: Dawn of War II",4
+2014,19680,,4
+2014,25890,Hearts of Iron III,4
+2014,42960,Victoria II,4
+2014,47870,Need For Speed: Hot Pursuit,4
+2014,48000,LIMBO,4
+2014,70300,VVVVVV,4
+2014,72200,Universe Sandbox,4
+2014,98200,Frozen Synapse,4
+2014,109400,,4
+2014,200900,,4
+2014,204240,The Bridge,4
+2014,211500,RaceRoom Racing Experience,4
+2014,213610,Sonic Adventure 2,4
+2014,219680,Proteus,4
+2014,220860,McPixel,4
+2014,223670,,4
+2014,224460,Contrast,4
+2014,227320,,4
+2014,227480,God Mode,4
+2014,227680,,4
+2014,228300,Remember Me,4
+2014,232810,,4
+2014,233860,,4
+2014,234310,,4
+2014,236510,,4
+2014,237990,The Banner Saga,4
+2014,238240,Edge of Space,4
+2014,241560,The Crew™,4
+2014,244710,Shelter,4
+2014,246580,The Typing of The Dead: Overkill,4
+2014,247000,Talisman: Digital Edition,4
+2014,247910,Sniper Elite: Nazi Zombie Army 2,4
+2014,248310,Freedom Planet,4
+2014,248860,NEO Scavenger,4
+2014,249050,Dungeon of the Endless™,4
+2014,249630,Delver,4
+2014,250340,Blockland,4
+2014,257850,Hyper Light Drifter,4
+2014,258970,Gauntlet™ Slayer Edition,4
+2014,263020,STARWHAL,4
+2014,263300,BlazBlue: Calamity Trigger,4
+2014,265610,Epic Battle Fantasy 4,4
+2014,266430,Anarchy Arcade,4
+2014,272060,Serena,4
+2014,272350,,4
+2014,272510,NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution,4
+2014,282070,This War of Mine,4
+2014,289760,ROCKETSROCKETSROCKETS,4
+2014,291410,Duelyst,4
+2014,292120,FINAL FANTASY® XIII,4
+2014,293010,,4
+2014,296470,Mount Your Friends,4
+2014,298110,Far Cry® 4,4
+2014,298600,Lovely Planet,4
+2014,300380,Road Redemption,4
+2014,301970,Screencheat,4
+2014,303390,Dead Bits,4
+2014,304030,ArcheAge,4
+2014,322920,theHunter: Primal,4
+2014,323850,Move or Die,4
+2014,326460,ShellShock Live,4
+2014,327410,A Bird Story,4
+2014,327890,I am Bread,4
+2014,353130,Time of Dragons,4
+2014,375230,,4
+2014,385730,WWE 2K16,4
+2014,391730,Crashlands,4
+2014,407530,ARK: Survival Of The Fittest,4
+2014,409710,BioShock™ Remastered,4
+2014,410320,EARTH DEFENSE FORCE 4.1 The Shadow of New Despair,4
+2014,413410,Danganronpa: Trigger Happy Havoc,4
+2014,422970,Devil Daggers,4
+2014,428690,Youtubers Life,4
+2014,432020,What's under your blanket !?,4
+2014,435870,Fallout 4 - Automatron,4
+2014,435881,Fallout 4 Far Harbor,4
+2014,438490,,4
+2014,444560,,4
+2014,449800,,4
+2014,459820,Crush Crush,4
+2014,20,Team Fortress Classic,3
+2014,280,Half-Life: Source,3
+2014,340,Half-Life 2: Lost Coast,3
+2014,1520,DEFCON,3
+2014,2600,Vampire: The Masquerade - Bloodlines,3
+2014,4570,"Warhammer® 40,000: Dawn of War® - Game of the Year Edition",3
+2014,8400,Geometry Wars: Retro Evolved,3
+2014,9870,,3
+2014,10150,Prototype™,3
+2014,15320,IL-2 Sturmovik: 1946,3
+2014,17300,Crysis,3
+2014,17500,Zombie Panic! Source,3
+2014,20510,S.T.A.L.K.E.R.: Clear Sky,3
+2014,21100,F.E.A.R. 3,3
+2014,22000,World of Goo,3
+2014,24840,Medal of Honor: Airborne,3
+2014,24980,Mass Effect 2,3
+2014,32470,STAR WARS™ Empire at War - Gold Pack,3
+2014,32500,STAR WARS™: The Force Unleashed™ II,3
+2014,32800,Lord of the Rings: War in the North,3
+2014,33460,From Dust,3
+2014,33900,Arma 2,3
+2014,36620,,3
+2014,40970,Stronghold Crusader HD,3
+2014,41070,,3
+2014,48720,Mount & Blade: With Fire & Sword,3
+2014,55100,Homefront,3
+2014,65300,Dustforce DX,3
+2014,71230,Crazy Taxi,3
+2014,71340,Sonic Generations Collection,3
+2014,91700,E.Y.E: Divine Cybermancy,3
+2014,92800,SpaceChem,3
+2014,98800,Dungeons of Dredmor,3
+2014,200170,Worms Revolution,3
+2014,202750,Alan Wake's American Nightmare,3
+2014,204530,Infested Planet,3
+2014,205910,Tiny and Big: Grandpa's Leftovers,3
+2014,207210,,3
+2014,207350,Ys Origin,3
+2014,211600,Thief™ Gold,3
+2014,214420,Gear Up,3
+2014,215080,WAKFU,3
+2014,218740,Pid,3
+2014,220260,Farming Simulator 2013 Titanium Edition,3
+2014,221040,Resident Evil 6 / Biohazard 6,3
+2014,221540,DG2: Defense Grid 2,3
+2014,225420,Cities in Motion 2,3
+2014,227160,Kinetic Void,3
+2014,227220,Sang-Froid - Tales of Werewolves,3
+2014,228400,Ace Combat Assault Horizon - Enhanced Edition,3
+2014,231670,,3
+2014,232890,Stronghold Crusader 2,3
+2014,233290,Murdered: Soul Suspect,3
+2014,233740,Organ Trail: Director's Cut,3
+2014,234330,Marvel Puzzle Quest,3
+2014,234390,Teleglitch: Die More Edition,3
+2014,234530,,3
+2014,234650,Shadowrun Returns,3
+2014,236110,Dungeon Defenders II,3
+2014,236150,Starpoint Gemini 2,3
+2014,237740,Angry Video Game Nerd Adventures,3
+2014,237850,Dreamfall Chapters,3
+2014,237890,Agarest: Generations of War,3
+2014,239200,Amnesia: A Machine for Pigs,3
+2014,239800,Bleed,3
+2014,241260,Sherlock Holmes: Crimes and Punishments,3
+2014,242820,140,3
+2014,244590,Epigenesis,3
+2014,244630,NEOTOKYO,3
+2014,244730,Divekick,3
+2014,244930,SNOW,3
+2014,245280,ENSLAVED™: Odyssey to the West™ Premium Edition,3
+2014,245490,Trials Fusion™,3
+2014,247080,Crypt of the NecroDancer,3
+2014,247240,Volgarr the Viking,3
+2014,248390,Craft The World,3
+2014,248610,Door Kickers,3
+2014,248800,Dysfunctional Systems: Learning to Manage Chaos,3
+2014,249380,,3
+2014,251610,,3
+2014,254440,Pool Nation,3
+2014,255420,Magic 2015 - Duels of the Planeswalkers,3
+2014,255480,,3
+2014,256350,,3
+2014,257750,Bloody Trapland,3
+2014,258180,Deus Ex: The Fall,3
+2014,258520,The Vanishing of Ethan Carter,3
+2014,259680,Tales of Maj'Eyal,3
+2014,261700,Eryi's Action,3
+2014,263060,Blockstorm,3
+2014,264240,CONSORTIUM,3
+2014,266110,Tower of Guns,3
+2014,269210,Hero Siege,3
+2014,270450,Robot Roller-Derby Disco Dodgeball,3
+2014,274900,Murder Miners,3
+2014,274980,Influent,3
+2014,276810,Mordheim: City of the Damned,3
+2014,278910,Interplanetary,3
+2014,280740,Aperture Tag: The Paint Gun Testing Initiative,3
+2014,282470,Don't Starve: Reign of Giants,3
+2014,285900,Gang Beasts,3
+2014,290770,The Fall,3
+2014,293780,Crawl,3
+2014,295550,Royal Quest,3
+2014,297810,,3
+2014,301480,,3
+2014,304650,SUNLESS SEA,3
+2014,311690,Enter the Gungeon,3
+2014,327070,Gloria Victis,3
+2014,330840,Game of Thrones - A Telltale Games Series,3
+2014,349040,NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,3
+2014,357340,Cobalt,3
+2014,364420,Roguelands,3
+2014,379980,Panzermadels: Tank Dating Simulator,3
+2014,384190,ABZU,3
+2014,385370,,3
+2014,394310,Punch Club,3
+2014,396900,,3
+2014,410670,Suits: A Business RPG,3
+2014,412740,,3
+2014,420110,,3
+2014,429720,IMSCARED,3
+2014,441600,PAYDAY 2: Wolf Pack,3
+2014,443580,Antenna,3
+2014,448370,IS Defense,3
+2014,449140,Istrolid,3
+2014,450390,,3
+2014,464780,ChuSingura46+1 S,3
+2014,467820,Zero G Arena,3
+2014,468410,PAYDAY 2: Sydney Character Pack,3
+2014,475150,,3
+2014,485380,Welcome to the Game,3
+2014,491130,Red Trigger,3
+2014,60,Ricochet,2
+2014,380,Half-Life 2: Episode One,2
+2014,2270,Wolfenstein 3D,2
+2014,2280,Ultimate Doom,2
+2014,2420,The Ship: Single Player,2
+2014,3480,Peggle Deluxe,2
+2014,3620,Zuma's Revenge!,2
+2014,3900,Sid Meier's Civilization® IV,2
+2014,3910,Sid Meier's Civilization® III Complete,2
+2014,4500,S.T.A.L.K.E.R.: Shadow of Chernobyl,2
+2014,6000,STAR WARS™ Republic Commando™,2
+2014,6220,FlatOut,2
+2014,6880,Just Cause,2
+2014,6980,Thief: Deadly Shadows,2
+2014,8500,EVE Online,2
+2014,9200,RAGE,2
+2014,9350,Supreme Commander,2
+2014,9450,"Warhammer® 40,000: Dawn of War® - Soulstorm",2
+2014,9930,Test Drive Unlimited 2,2
+2014,12220,Grand Theft Auto: Episodes from Liberty City,2
+2014,12360,FlatOut: Ultimate Carnage,2
+2014,13210,Unreal Tournament 3 Black,2
+2014,13230,Unreal Tournament 2004: Editor's Choice Edition,2
+2014,13600,Prince of Persia®: The Sands of Time,2
+2014,15710,Oddworld: Abe's Exoddus®,2
+2014,16720,Velvet Assassin,2
+2014,16730,,2
+2014,17020,,2
+2014,17450,Dragon Age: Origins,2
+2014,17510,Age of Chivalry,2
+2014,18820,Zero Gear,2
+2014,21000,LEGO Batman,2
+2014,21090,F.E.A.R.,2
+2014,21690,Resident Evil™ 5/ Biohazard 5®,2
+2014,22600,Worms Reloaded,2
+2014,23450,Grand Ages: Rome,2
+2014,24670,Trainz™ Simulator 12,2
+2014,24780,SimCity™ 4 Deluxe Edition,2
+2014,24790,Command & Conquer 3: Tiberium Wars,2
+2014,31220,,2
+2014,31290,Back to the Future: The Game,2
+2014,34870,Sniper: Ghost Warrior 2,2
+2014,38400,Fallout: A Post Nuclear Role Playing Game,2
+2014,39210,FINAL FANTASY XIV Online,2
+2014,40700,Machinarium,2
+2014,41000,Serious Sam HD: The First Encounter,2
+2014,41010,,2
+2014,41300,Altitude,2
+2014,41700,S.T.A.L.K.E.R.: Call of Pripyat,2
+2014,44320,,2
+2014,45100,Secret of the Magic Crystals,2
+2014,45700,Devil May Cry 4,2
+2014,47920,Shift 2 Unleashed,2
+2014,55110,Red Faction®: Armageddon™,2
+2014,55140,MX vs. ATV Reflex,2
+2014,57640,Broken Sword: Director's Cut,2
+2014,91900,Post Apocalyptic Mayhem,2
+2014,96000,The Tiny Bang Story,2
+2014,97000,Solar 2,2
+2014,98400,Hard Reset Extended Edition,2
+2014,107200,Space Pirates and Zombies,2
+2014,107900,,2
+2014,115100,Costume Quest,2
+2014,201210,Pox Nora,2
+2014,201290,,2
+2014,203750,Binary Domain,2
+2014,203810,,2
+2014,203830,The Dark Eye: Chains of Satinav,2
+2014,204060,Superbrothers: Sword & Sworcery EP,2
+2014,204340,Serious Sam 2,2
+2014,205190,Rocksmith™,2
+2014,205930,,2
+2014,206480,Dungeons & Dragons Online®,2
+2014,207080,Indie Game: The Movie,2
+2014,207170,Legend of Grimrock,2
+2014,207730,Arena Wars 2,2
+2014,208140,Endless Space® - Collection,2
+2014,208200,Doom 3: BFG Edition,2
+2014,208520,Omerta - City of Gangsters,2
+2014,209370,Analogue: A Hate Story,2
+2014,210970,The Witness,2
+2014,211440,Adventures of Shuggy,2
+2014,214230,,2
+2014,214510,LEGO The Lord of the Rings,2
+2014,214700,Thirty Flights of Loving,2
+2014,217140,Rise of the Triad,2
+2014,218330,,2
+2014,218410,Defender's Quest: Valley of the Forgotten (DX edition),2
+2014,218640,Lucius,2
+2014,218980,,2
+2014,219190,Ultratron,2
+2014,220050,,2
+2014,220440,DmC: Devil May Cry,2
+2014,222730,Reus,2
+2014,223750,,2
+2014,223830,Xenonauts,2
+2014,224280,,2
+2014,224500,Gnomoria,2
+2014,224820,Super House of Dead Ninjas,2
+2014,226620,Desktop Dungeons,2
+2014,227080,Papo & Yo,2
+2014,227100,Sniper Elite: Nazi Zombie Army,2
+2014,228180,Action! - Gameplay Recording and Streaming,2
+2014,228940,,2
+2014,230190,War for the Overworld,2
+2014,231740,Knights of Pen and Paper +1 Edition,2
+2014,233610,,2
+2014,233980,UnEpic,2
+2014,237630,DuckTales: Remastered,2
+2014,237870,Planet Explorers,2
+2014,238210,System Shock 2,2
+2014,238590,,2
+2014,238750,Might & Magic X - Legacy,2
+2014,239450,,2
+2014,239840,Dead State: Reanimated,2
+2014,240440,Quadrilateral Cowboy,2
+2014,240760,Wasteland 2: Director's Cut,2
+2014,242640,Styx: Master of Shadows,2
+2014,243970,"Invisible, Inc.",2
+2014,244450,Men of War: Assault Squad 2,2
+2014,246090,Spacebase DF-9,2
+2014,249680,Marlow Briggs and the Mask of Death,2
+2014,249950,Forge Quest,2
+2014,250460,Bridge Constructor,2
+2014,250520,UnderRail,2
+2014,251630,The Impossible Game,2
+2014,252150,Grimm,2
+2014,252250,Maia,2
+2014,252350,Double Dragon: Neon,2
+2014,252410,SteamWorld Dig,2
+2014,252630,Eldritch,2
+2014,253650,Sparkle 2 Evo,2
+2014,253980,Enclave,2
+2014,254200,FortressCraft Evolved!,2
+2014,254700,resident evil 4 / biohazard 4,2
+2014,255260,Pro Cycling Manager 2014,2
+2014,256330,WRC 4 FIA World Rally Championship,2
+2014,256410,,2
+2014,259620,3079 -- Block Action RPG,2
+2014,259720,Fading Hearts,2
+2014,259740,Nightmares from the Deep: The Cursed Heart,2
+2014,260160,The Last Tinker™: City of Colors,2
+2014,262120,Toy Soldiers: Complete,2
+2014,262150,,2
+2014,262550,Gunman Clive,2
+2014,263320,Saturday Morning RPG,2
+2014,263360,3089 -- Futuristic Action RPG,2
+2014,263680,Unearthed: Trail of Ibn Battuta - Episode 1 - Gold Edition,2
+2014,263740,FootLOL: Epic Fail League,2
+2014,264120,Victory: The Age of Racing,2
+2014,265300,Lords Of The Fallen™,2
+2014,265750,Secret Ponchos,2
+2014,266070,City of Steam: Arkadia,2
+2014,266130,Breach & Clear,2
+2014,266210,One Way Heroics,2
+2014,266390,Farm for your Life,2
+2014,267130,Star Swarm Stress Test,2
+2014,267550,,2
+2014,269030,The Yawhg,2
+2014,269050,Year Walk,2
+2014,269170,,2
+2014,269310,Infectonator: Survivors,2
+2014,269730,,2
+2014,270370,Lambda Wars Beta,2
+2014,270570,Reversion - The Escape (1st Chapter),2
+2014,270850,,2
+2014,272600,Detective Grimoire,2
+2014,274250,OlliOlli,2
+2014,274500,Brigador: Up-Armored Edition,2
+2014,275530,Z,2
+2014,278080,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition / 真・三國無双７ with 猛将伝,2
+2014,278620,TinyKeep,2
+2014,281690,,2
+2014,282800,100% Orange Juice,2
+2014,283640,Salt and Sanctuary,2
+2014,283940,Freddi Fish and The Case of the Missing Kelp Seeds,2
+2014,284160,BeamNG.drive,2
+2014,285580,ACE - Arena: Cyber Evolution,2
+2014,286160,,2
+2014,286690,Metro 2033 Redux,2
+2014,287980,Mini Metro,2
+2014,288160,The Room,2
+2014,292240,"Spy Fox 2 ""Some Assembly Required""",2
+2014,293240,Cosmochoria,2
+2014,293500,Amazing World™,2
+2014,293560,,2
+2014,293900,Pivvot,2
+2014,296240,The Promised Land,2
+2014,297110,Cosmic DJ,2
+2014,298160,Eldevin,2
+2014,299660,6180 the moon,2
+2014,299860,,2
+2014,300040,Divine Souls F2P MMO,2
+2014,302270,Dungeon Defenders Eternity,2
+2014,302830,BLOCKADE 3D,2
+2014,305070,FIST OF AWESOME,2
+2014,306020,Bloons TD 5,2
+2014,306130,The Elder Scrolls® Online: Tamriel Unlimited™,2
+2014,306460,Unturned - Permanent Gold Upgrade,2
+2014,310380,Fractured Space,2
+2014,310950,Street Fighter V,2
+2014,312150,Wild Warfare,2
+2014,312210,The Fifth Day,2
+2014,315640,,2
+2014,317110,,2
+2014,317410,Color Symphony,2
+2014,318530,Wings of Vi,2
+2014,318600,The Flame in the Flood,2
+2014,320040,Moon Hunters,2
+2014,321360,Primal Carnage: Extinction,2
+2014,321830,Cavern Kings,2
+2014,322170,Geometry Dash,2
+2014,322770,,2
+2014,324310,Bus Simulator 16,2
+2014,325100,,2
+2014,329110,Gems of War - Puzzle RPG,2
+2014,329860,,2
+2014,332070,School of Dragons,2
+2014,337950,The SKIES,2
+2014,347160,,2
+2014,353380,Steam Link,2
+2014,354290,LoveBeat,2
+2014,356500,STAR WARS™ Galactic Battlegrounds Saga,2
+2014,359410,Motivational Growth,2
+2014,359870,FINAL FANTASY X/X-2 HD Remaster,2
+2014,360950,,2
+2014,362680,Fran Bow,2
+2014,366440,Savage Resurrection,2
+2014,368740,Obliteracers,2
+2014,372540,The Lost Mythologies,2
+2014,376300,GUILTY GEAR Xrd -SIGN-,2
+2014,378648,,2
+2014,384630,Aviary Attorney,2
+2014,385760,NBA 2K17,2
+2014,386940,Ultimate Chicken Horse,2
+2014,387340,Hyperdimension Neptunia U: Action Unleashed,2
+2014,388880,Oxenfree,2
+2014,389220,Maximum Override,2
+2014,391040,F1 2016,2
+2014,393530,Insanity Clicker,2
+2014,393980,Pretty Girls Mahjong Solitaire,2
+2014,394970,,2
+2014,395180,Arma 3 Apex,2
+2014,396260,World's Fastest Pizza,2
+2014,400800,MXGP2 - The Official Motocross Videogame,2
+2014,400910,Rabi-Ribi,2
+2014,407250,,2
+2014,407840,Guardians of Orion,2
+2014,413420,Danganronpa 2: Goodbye Despair,2
+2014,414190,Junk Jack,2
+2014,422420,Godus Wars,2
+2014,426000,HunieCam Studio,2
+2014,427190,DEAD RISING®,2
+2014,429300,Sepia Tears,2
+2014,429570,The Walking Dead: Michonne - A Telltale Miniseries,2
+2014,433080,XCOM 2: Anarchy's Children,2
+2014,434730,Half Dead,2
+2014,435030,Lost Lands: Mahjong,2
+2014,436320,,2
+2014,438640,LEGO® STAR WARS™: The Force Awakens,2
+2014,443810,This Is the Police,2
+2014,446750,,2
+2014,447820,,2
+2014,449470,Atulos Online,2
+2014,449540,There's Poop In My Soup,2
+2014,450540,,2
+2014,450660,PAYDAY 2: Biker Character Pack,2
+2014,452780,,2
+2014,460120,Megadimension Neptunia VII,2
+2014,461680,FPV Air Tracks,2
+2014,462930,AdVenture Communist,2
+2014,473850,The Center - ARK Expansion Map,2
+2014,474750,Reigns,2
+2014,476460,Picross Touch,2
+2014,487280,,2
+2014,496300,Kingdom: New Lands,2
+2014,499440,klocki,2
+2014,509060,,2
+2014,512540,ARK: Scorched Earth - Expansion Pack,2
+2014,30,Day of Defeat,1
+2014,40,Deathmatch Classic,1
+2014,50,Half-Life: Opposing Force,1
+2014,320,Half-Life 2: Deathmatch,1
+2014,1280,Darkest Hour: Europe '44-'45,1
+2014,1510,Uplink,1
+2014,1930,Two Worlds Epic Edition,1
+2014,2290,Final DOOM,1
+2014,2320,QUAKE II,1
+2014,2450,Bloody Good Time,1
+2014,2500,Shadowgrounds,1
+2014,2610,GUN™,1
+2014,2630,Call of Duty® 2,1
+2014,2700,RollerCoaster Tycoon® 3: Platinum,1
+2014,3050,Xpand Rally Xtreme,1
+2014,3260,Safecracker: The Ultimate Puzzle Adventure,1
+2014,3390,Feeding Frenzy 2 Deluxe,1
+2014,3483,Peggle Extreme,1
+2014,3590,Plants vs. Zombies GOTY Edition,1
+2014,3720,Evil Genius,1
+2014,3800,Advent Rising,1
+2014,3920,Sid Meier's Pirates!,1
+2014,4540,,1
+2014,4550,,1
+2014,4720,Condemned: Criminal Origins,1
+2014,4780,Medieval II: Total War™ Kingdoms,1
+2014,6210,Vegas: Make It Big™,1
+2014,6550,Devil May Cry® 3 Special Edition,1
+2014,6830,Commandos 2: Men of Courage,1
+2014,6860,Hitman: Blood Money,1
+2014,7020,Rogue Trooper,1
+2014,7200,Trackmania United Forever Star Edition,1
+2014,7520,Two Worlds II HD,1
+2014,7860,NecroVision,1
+2014,8170,Battlestations Pacific,1
+2014,8230,Sam & Max 104: Abe Lincoln Must Die!,1
+2014,8310,Bone: Out From Boneville,1
+2014,8880,Freedom Force,1
+2014,9460,Frontlines™: Fuel of War™,1
+2014,9880,Champions Online,1
+2014,10130,TimeShift™,1
+2014,10220,Postal III,1
+2014,11140,Sherlock Holmes: The Awakened - Remastered Edition,1
+2014,11240,Space Trader: Merchant Marine,1
+2014,11330,Obulis,1
+2014,11340,Larva Mortus,1
+2014,11590,Hospital Tycoon,1
+2014,12140,Max Payne,1
+2014,12160,Midnight Club 2,1
+2014,12340,Jack Keane,1
+2014,12590,Sprint Cars Road to Knoxville,1
+2014,12750,,1
+2014,12830,Operation Flashpoint: Dragon Rising,1
+2014,13140,,1
+2014,13500,Prince of Persia: Warrior Within™,1
+2014,13520,Far Cry®,1
+2014,13570,Tom Clancy's Splinter Cell Chaos Theory®,1
+2014,15100,Assassin's Creed™: Director's Cut Edition,1
+2014,15120,Tom Clancy's Rainbow Six® Vegas 2,1
+2014,15130,Beyond Good and Evil™,1
+2014,15200,Silent Hunter®: Wolves of the Pacific,1
+2014,15300,Tom Clancy's Ghost Recon®,1
+2014,15390,Brothers in Arms: Hell's Highway™,1
+2014,15750,Oddworld: Stranger's Wrath HD,1
+2014,16120,Plant Tycoon,1
+2014,16870,Sid Meier's Civilization V: Gods and Kings,1
+2014,17100,Children of the Nile: Enhanced Edition,1
+2014,17580,Dystopia,1
+2014,17740,Empires Mod,1
+2014,18110,,1
+2014,18500,Defense Grid: The Awakening,1
+2014,19900,Far Cry® 2: Fortune's Edition,1
+2014,20500,Red Faction Guerrilla Steam Edition,1
+2014,20530,Red Faction,1
+2014,20840,,1
+2014,21660,Street Fighter® IV,1
+2014,21970,,1
+2014,22100,Mount & Blade,1
+2014,22110,,1
+2014,22120,Penumbra: Black Plague Gold Edition,1
+2014,22180,Penumbra Overture,1
+2014,22230,Rock of Ages,1
+2014,22350,BRINK,1
+2014,23530,Earth Defense Force: Insect Armageddon,1
+2014,24810,Command & Conquer 3: Kane's Wrath,1
+2014,24860,,1
+2014,26800,Braid,1
+2014,29180,Osmos,1
+2014,31270,,1
+2014,31860,Nancy Drew®: Legend of the Crystal Skull,1
+2014,32330,LEGO® Indiana Jones™: The Original Adventures,1
+2014,32380,STAR WARS™ Jedi Knight: Dark Forces II,1
+2014,32400,STAR WARS™ - Dark Forces,1
+2014,32430,STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition,1
+2014,32440,LEGO® Star Wars™ - The Complete Saga,1
+2014,33210,Dawn of Discovery™,1
+2014,33220,,1
+2014,34010,Alpha Protocol™,1
+2014,34830,Sniper: Ghost Warrior,1
+2014,34880,,1
+2014,34910,Bad Rats: the Rats' Revenge Demo,1
+2014,35700,Trine Enchanted Edition,1
+2014,37600,Windosill,1
+2014,38410,Fallout 2: A Post Nuclear Role Playing Game,1
+2014,38440,Sacrifice,1
+2014,38600,Faerie Solitaire,1
+2014,38830,,1
+2014,38900,,1
+2014,39670,Chaser,1
+2014,40390,Risen 2: Dark Waters,1
+2014,41050,Serious Sam Classic: The First Encounter,1
+2014,41100,Hammerfight,1
+2014,41740,Cargo! The Quest for Gravity,1
+2014,42650,,1
+2014,42890,Sword of the Stars: Complete Collection,1
+2014,45000,Sol Survivor,1
+2014,45740,Dead Rising® 2,1
+2014,45750,Lost Planet® 2,1
+2014,46280,Star Wolves 2,1
+2014,46440,Future Wars,1
+2014,47780,Dead Space™ 2,1
+2014,47800,RISK™: Factions,1
+2014,48705,Mount & Blade: Warband - Napoleonic Wars,1
+2014,48800,Ship Simulator Extremes,1
+2014,49470,Magic: The Gathering - Duels of the Planeswalkers 2012,1
+2014,49540,,1
+2014,50620,Darksiders™,1
+2014,50650,,1
+2014,57600,Tropico 3: Absolute Power,1
+2014,57680,,1
+2014,58610,Wargame: European Escalation,1
+2014,60800,Numen: Contest of Heroes,1
+2014,61600,Zen Bound 2,1
+2014,61730,Critter Crunch,1
+2014,62100,Chime,1
+2014,65730,Take On Helicopters,1
+2014,65740,Carrier Command: Gaea Mission,1
+2014,70100,Hacker Evolution,1
+2014,70620,Worms Crazy Golf,1
+2014,71000,Evochron Mercenary,1
+2014,71250,Sonic Adventure DX,1
+2014,71390,,1
+2014,72730,Fallout New Vegas: Dead Money,1
+2014,73220,Supreme Ruler: Cold War,1
+2014,78000,Bejeweled® 3,1
+2014,94000,Dinner Date,1
+2014,94590,Puzzle Agent 2,1
+2014,95400,ibb & obb,1
+2014,95700,The Cat and the Coup,1
+2014,98421,Hard Reset: Exile DLC,1
+2014,99300,Renegade Ops,1
+2014,99700,NightSky,1
+2014,99810,,1
+2014,102600,Orcs Must Die!,1
+2014,105420,Ms. Splosion Man,1
+2014,107310,Cthulhu Saves the World,1
+2014,107600,,1
+2014,107800,Rochard,1
+2014,110800,L.A. Noire,1
+2014,111600,Serious Sam Double D XXL,1
+2014,111800,Blocks That Matter,1
+2014,113204,Binding of Isaac: Wrath of the Lamb,1
+2014,115110,Stacking,1
+2014,200010,Quantum Conundrum,1
+2014,200150,Battle Chess: Game of Kings™,1
+2014,200230,Off-Road Drive,1
+2014,201420,Toki Tori 2+,1
+2014,201570,Really Big Sky,1
+2014,201700,,1
+2014,201870,,1
+2014,202200,Galactic Civilizations® II: Ultimate Edition,1
+2014,202310,Ridge Racer™ Unbounded,1
+2014,203210,Titan Attacks!,1
+2014,203250,,1
+2014,203650,Sonic the Hedgehog 4 - Episode II,1
+2014,203730,,1
+2014,204080,The Showdown Effect,1
+2014,205230,Hell Yeah! Wrath of the Dead Rabbit,1
+2014,205650,The Testament of Sherlock Holmes,1
+2014,205710,Everquest ®,1
+2014,205870,Auditorium,1
+2014,205890,Chronicle: RuneScape Legends,1
+2014,206521,Spiral Knights: Operation Crimson Hammer,1
+2014,207250,Cubemen,1
+2014,207650,A Virus Named TOM,1
+2014,207690,Botanicula,1
+2014,207750,Symphony,1
+2014,207815,PAYDAY™ The Heist: Wolfpack DLC,1
+2014,208352,Train Simulator: Southern Pacific GS-4 Loco Add-On,1
+2014,208730,Game of Thrones,1
+2014,209100,Resident Evil: Operation Raccoon City,1
+2014,209120,Street Fighter X Tekken,1
+2014,209270,Hero Academy,1
+2014,209540,Strike Suit Zero,1
+2014,209630,Magrunner: Dark Pulse,1
+2014,210870,Cloudberry Kingdom™,1
+2014,210898,Crusader Kings II: Mediterranean Portraits,1
+2014,210990,,1
+2014,211050,,1
+2014,211720,,1
+2014,211740,Thief™ II: The Metal Age,1
+2014,212200,Mabinogi,1
+2014,212390,Continent of the Ninth Seal,1
+2014,213120,,1
+2014,213450,,1
+2014,214130,Aerofly FS 1 Flight Simulator,1
+2014,214610,Cherry Tree High Comedy Club,1
+2014,214630,Call of Duty: Black Ops - Mac Edition,1
+2014,214970,Intrusion 2,1
+2014,215630,Demonicon,1
+2014,215670,Home,1
+2014,215690,Zeno Clash 2,1
+2014,216173,AirMech® Soundtrack,1
+2014,216260,Don Bradman Cricket 14,1
+2014,217100,Dementium II HD,1
+2014,217690,Anna - Extended Edition,1
+2014,217920,Alien Rage - Unlimited,1
+2014,218090,Unity of Command: Stalingrad Campaign,1
+2014,218130,Dungeonland,1
+2014,218170,,1
+2014,218450,,1
+2014,219092,Call of Duty®: Black Ops II - Nuketown Zombies Map,1
+2014,219103,Call of Duty®: Black Ops II - Apocalypse,1
+2014,219600,,1
+2014,219700,Dogs of War Online,1
+2014,219870,,1
+2014,219990,Grim Dawn,1
+2014,220090,The Journey Down: Chapter One,1
+2014,220740,Chaos on Deponia,1
+2014,220760,,1
+2014,220820,Zombie Driver HD,1
+2014,221020,Towns,1
+2014,221180,Eufloria HD,1
+2014,221810,The Cave,1
+2014,222140,Puddle,1
+2014,222480,Resident Evil Revelations / Biohazard Revelations,1
+2014,222520,Champions of Regnum,1
+2014,222710,,1
+2014,222940,THE KING OF FIGHTERS XIII STEAM EDITION,1
+2014,222980,Dead Pixels,1
+2014,223100,Homefront®: The Revolution,1
+2014,223390,,1
+2014,223430,Miner Wars 2081,1
+2014,223770,DCS: P-51D Mustang,1
+2014,224900,Iron Sky: Invasion,1
+2014,225160,Shadow Warrior Classic Redux,1
+2014,225280,Full Mojo Rampage,1
+2014,225300,Tomb Raider II,1
+2014,225340,XCOM: Enemy Within,1
+2014,226560,Escape Dead Island,1
+2014,226580,F1 2014,1
+2014,226720,LOST PLANET® 3,1
+2014,226740,Monster Loves You!,1
+2014,226840,,1
+2014,226980,,1
+2014,227180,Kingdom Wars,1
+2014,227200,Waking Mars,1
+2014,227580,"10,000,000",1
+2014,227600,Castle of Illusion,1
+2014,227780,Serious Sam Classics: Revolution,1
+2014,228560,,1
+2014,228740,,1
+2014,229580,Dream,1
+2014,230070,The Age of Decadence,1
+2014,230270,N++ (NPLUSPLUS),1
+2014,230840,Daylight,1
+2014,231040,Beatbuddy: Tale of the Guardians,1
+2014,231310,MirrorMoon EP,1
+2014,232010,Euro Truck Simulator,1
+2014,232050,Eador. Masters of the Broken World,1
+2014,232450,SolForge,1
+2014,232750,Mars: War Logs,1
+2014,232950,Bridge Project,1
+2014,233190,Final Exam,1
+2014,233350,Sudeki,1
+2014,233550,Another World – 20th Anniversary Edition,1
+2014,233700,,1
+2014,233840,Worms Clan Wars,1
+2014,234160,Strike Suit Infinity,1
+2014,234490,Rush Bros.,1
+2014,235250,Super Sanctum TD,1
+2014,235580,Sid Meier's Civilization V: Brave New World,1
+2014,235780,MINERVA,1
+2014,236730,Anomaly 2,1
+2014,237370,PlayClaw 5 - Game Recording and Streaming,1
+2014,238070,,1
+2014,238890,Skyward Collapse,1
+2014,239120,FINAL FANTASY III,1
+2014,239250,Castlevania: Lords of Shadow 2,1
+2014,239720,PAC-MAN™ and the Ghostly Adventures,1
+2014,240320,,1
+2014,241240,Contraption Maker,1
+2014,241320,Ittle Dew,1
+2014,241410,CastleStorm,1
+2014,241640,,1
+2014,241910,Goodbye Deponia,1
+2014,242940,Anachronox,1
+2014,243200,Memoria,1
+2014,243280,Poöf,1
+2014,243450,Urban Trial Freestyle,1
+2014,243780,PixelJunk™ Monsters Ultimate,1
+2014,243800,Gas Guzzlers Extreme,1
+2014,243930,,1
+2014,244810,Foul Play,1
+2014,244890,Velocity®Ultra,1
+2014,245760,,1
+2014,245910,Borderlands 2: Headhunter 2: Wattle Gobbler,1
+2014,246070,Hack 'n' Slash,1
+2014,246840,FATE,1
+2014,247120,Portal 2 Sixense Perceptual Pack,1
+2014,247140,Soundodger+,1
+2014,247430,Hitman: Contracts,1
+2014,248170,Clickteam Fusion 2.5,1
+2014,248350,Omegalodon,1
+2014,248530,Depth Hunter 2: Deep Dive,1
+2014,248550,Megabyte Punch,1
+2014,248630,Kingdoms Rise,1
+2014,248970,Vector,1
+2014,249330,Unholy Heights,1
+2014,249570,The Castle Doctrine,1
+2014,249870,Scribblenauts Unmasked: A DC Comics Adventure,1
+2014,250050,Life Goes On: Done to Death,1
+2014,250580,Paranautical Activity: Deluxe Atonement Edition,1
+2014,251170,Damned,1
+2014,251290,The Legend of Heroes: Trails in the Sky SC,1
+2014,251430,The Inner World,1
+2014,251670,,1
+2014,252030,Valdis Story: Abyssal City,1
+2014,252530,OMSI 2: Steam Edition,1
+2014,252670,Nihilumbra,1
+2014,253110,The Cat Lady,1
+2014,253350,Tiny Barbarian DX,1
+2014,253510,WARMACHINE: Tactics,1
+2014,253690,Tiny Brains,1
+2014,254130,,1
+2014,254260,PAYDAY 2: The Official Soundtrack,1
+2014,254460,Obscure,1
+2014,254480,Obscure II (Obscure: The Aftermath),1
+2014,255220,GRID Autosport,1
+2014,255300,Journey of a Roach,1
+2014,255390,Max: The Curse of Brotherhood,1
+2014,256010,Jagged Alliance Flashback,1
+2014,256070,Truck Racer,1
+2014,257120,Not The Robots,1
+2014,257170,Rebuild 3: Gangs of Deadsville,1
+2014,257370,South Park™: The Stick of Truth™ - Ultimate Fellowship Pack,1
+2014,257510,The Talos Principle,1
+2014,257970,Loren The Amazon Princess,1
+2014,258010,Ring Runner: Flight of the Sages,1
+2014,258050,Survivor Squad,1
+2014,258590,Adventure Time: Finn and Jake's Epic Quest,1
+2014,258760,Scania Truck Driving Simulator,1
+2014,258880,Professional Farmer 2014,1
+2014,259381,PAYDAY 2: Gage Mod Courier,1
+2014,259390,Ballpoint Universe - Infinite,1
+2014,259530,Savant - Ascent,1
+2014,259550,Hero of the Kingdom,1
+2014,259600,Finding Teddy,1
+2014,259780,Nimble Quest,1
+2014,259800,Total War: ROME II - Blood & Gore,1
+2014,260410,Get Off My Lawn!,1
+2014,261110,Killer is Dead - Nightmare Edition,1
+2014,261530,Lifeless Planet Premier Edition,1
+2014,261880,Corporate Lifestyle Simulator,1
+2014,261920,Catzilla 4K - Advanced,1
+2014,262260,Jets'n'Guns Gold,1
+2014,262280,Dungeons 2,1
+2014,262830,Crimsonland,1
+2014,262850,The Journey Down: Chapter Two,1
+2014,263100,9.03m,1
+2014,263180,Squirt's Adventure,1
+2014,263200,Signs of Life,1
+2014,263340,Continue?9876543210,1
+2014,263380,Driftmoon,1
+2014,263400,War of the Human Tanks,1
+2014,263420,Probably Archery,1
+2014,263480,Final Rush,1
+2014,263500,Dragons and Titans,1
+2014,263560,Paper Sorcerer,1
+2014,263960,Wyv and Keep: The Temple of the Lost Idol,1
+2014,264360,,1
+2014,264930,,1
+2014,265000,FORCED SHOWDOWN,1
+2014,265061,,1
+2014,265120,Meridian: New World,1
+2014,265650,,1
+2014,265690,NaissanceE,1
+2014,265890,Hexcells,1
+2014,266490,Lili: Child of Geos - Complete Edition,1
+2014,266510,Hand of Fate,1
+2014,267380,PAYDAY 2: Gage Weapon Pack #01,1
+2014,267530,The LEGO® Movie - Videogame,1
+2014,267600,Airport Simulator 2014,1
+2014,268050,The Evil Within,1
+2014,268240,,1
+2014,268260,Let's Sing,1
+2014,268320,Grapple,1
+2014,268830,,1
+2014,268870,Satellite Reign,1
+2014,269290,liteCam Game: 100 FPS Game Capture,1
+2014,269450,,1
+2014,270130,,1
+2014,270510,EPOCH,1
+2014,270630,Haunt the House: Terrortown,1
+2014,270680,,1
+2014,271500,Sniper Art of Victory,1
+2014,271570,Space Farmers,1
+2014,271900,Hexcells Plus,1
+2014,271944,DARK SOULS™ II Crown of the Ivory King,1
+2014,272890,Vertiginous Golf,1
+2014,273500,Over 9000 Zombies!,1
+2014,274290,Gods Will Be Watching,1
+2014,274520,,1
+2014,275180,Costume Quest 2,1
+2014,275390,Guacamelee! Super Turbo Championship Edition,1
+2014,275610,"Warhammer 40,000: Kill Team",1
+2014,275670,Space Run,1
+2014,277390,VIDEOBALL,1
+2014,277460,Praetorians,1
+2014,278360,A Story About My Uncle,1
+2014,278440,0RBITALIS,1
+2014,278460,Skyborn,1
+2014,279160,Ultionus: A Tale of Petty Revenge,1
+2014,279420,Gardens Inc. – From Rakes to Riches,1
+2014,280220,Creeper World 3: Arc Eternal,1
+2014,280520,Crea,1
+2014,280790,,1
+2014,280910,T.E.C. 3001,1
+2014,280930,Battlepillars Gold Edition,1
+2014,281050,Vanguard Princess Director's Cut,1
+2014,281610,Homeworld: Deserts of Kharak,1
+2014,281820,Explodemon,1
+2014,282010,Carmageddon Max Pack,1
+2014,282350,,1
+2014,282560,RollerCoaster Tycoon World™,1
+2014,282740,Organic Panic,1
+2014,282760,Circuits,1
+2014,283230,Spoiler Alert,1
+2014,283290,Nosferatu: The Wrath of Malachi,1
+2014,283660,Rabbit Hole 3D: Steam Edition,1
+2014,283680,Astebreed: Definitive Edition,1
+2014,283880,Heroine's Quest: The Herald of Ragnarok,1
+2014,283960,Pajama Sam: No Need to Hide When It's Dark Outside,1
+2014,284460,DeadCore,1
+2014,285160,LEGO® The Hobbit™,1
+2014,285310,RollerCoaster Tycoon®: Deluxe,1
+2014,285330,RollerCoaster Tycoon® 2: Triple Thrill Pack,1
+2014,285440,Crimzon Clover WORLD IGNITION,1
+2014,285740,Kitty Powers' Matchmaker,1
+2014,286040,Dead Effect,1
+2014,286200,ReignMaker,1
+2014,286500,"House of 1,000 Doors: Family Secrets Collector's Edition",1
+2014,286660,Avoid - Sensory Overload,1
+2014,286971,Influent DLC - 한국어 [Learn Korean],1
+2014,287390,Metro: Last Light Redux,1
+2014,288290,Super Game Jam,1
+2014,288370,Strike Suit Zero: Director's Cut,1
+2014,289460,RC Cars,1
+2014,289600,Marauder,1
+2014,289690,LARA CROFT AND THE TEMPLE OF OSIRIS™,1
+2014,289930,TransOcean: The Shipping Company,1
+2014,289950,,1
+2014,290000,DubWars,1
+2014,290020,LogicBots,1
+2014,290060,,1
+2014,290280,Volt,1
+2014,290530,Clandestine,1
+2014,290730,My Lands: Black Gem Hunting,1
+2014,290990,Flower Shop: Summer In Fairbrook,1
+2014,291910,Firefighters 2014,1
+2014,292140,FINAL FANTASY® XIII-2,1
+2014,292180,X-Plane 10 Global - 64 Bit,1
+2014,292390,Realms of the Haunting,1
+2014,292600,Duet,1
+2014,292780,Pajama Sam 2: Thunder and Lightning Aren't So Frightening,1
+2014,293320,Coma: Mortuary,1
+2014,293740,Road Not Taken,1
+2014,293860,White Noise Online,1
+2014,293920,Spirited Heart Deluxe,1
+2014,294140,They Breathe,1
+2014,294160,Galcon 2: Galactic Conquest,1
+2014,294540,Freddi Fish 3: The Case of the Stolen Conch Shell,1
+2014,294670,Putt-Putt® Travels Through Time,1
+2014,295270,,1
+2014,295438,Call of Duty®: Ghosts - Squad Pack - Resistance,1
+2014,295730,Sweezy Gunner,1
+2014,295770,Rogue Shooter: The FPS Roguelike,1
+2014,295810,,1
+2014,296050,Battlepaths,1
+2014,296650,The Great Jitters: Pudding Panic,1
+2014,297020,,1
+2014,297120,Heavy Bullets,1
+2014,297350,The Old City: Leviathan,1
+2014,297490,Spy Chameleon - RGB Agent,1
+2014,298050,Master of Orion,1
+2014,298340,FLASHOUT 2,1
+2014,298520,Orbital Gear,1
+2014,299360,Block N Load,1
+2014,299540,Heroes Rise: The Prodigy,1
+2014,299640,,1
+2014,299780,Noir Syndrome,1
+2014,300760,Epsilon,1
+2014,300900,Hippocampal: The White Sofa,1
+2014,300970,Fiesta Online NA,1
+2014,301860,Submerged,1
+2014,302010,The Blue Flamingo,1
+2014,302080,Bus Driver,1
+2014,302510,Ryse: Son of Rome,1
+2014,302970,Radiant Defense,1
+2014,304270,,1
+2014,304670,Aeon Command,1
+2014,304730,Train Fever,1
+2014,305050,Outland,1
+2014,305260,Battle Islands,1
+2014,306660,Ultimate General: Gettysburg,1
+2014,306760,,1
+2014,306830,,1
+2014,307070,Memories of a Vagabond,1
+2014,307290,Velvet Sundown,1
+2014,307640,Stick RPG 2: Director's Cut,1
+2014,307990,Wildlife Park 2 - Fantasy,1
+2014,308270,Buzz Aldrin's Space Program Manager,1
+2014,310031,Expansion - Europa Universalis IV: Art of War,1
+2014,310080,Hatoful Boyfriend,1
+2014,310370,The Way of Life Free Edition,1
+2014,310700,Super Win the Game,1
+2014,310740,NEON STRUCT,1
+2014,311190,Super Panda Adventures,1
+2014,311310,Naval Action,1
+2014,312010,Bird Assassin,1
+2014,312630,OTTTD,1
+2014,312720,Khet 2.0,1
+2014,312750,FINAL FANTASY IV,1
+2014,312930,Rugby League Live 3 Demo,1
+2014,313375,Middle-earth: Shadow of Mordor - Flame of Anor Rune,1
+2014,313590,Boo Bunny Plague,1
+2014,313630,,1
+2014,313690,LEGO® Batman™3: Beyond Gotham,1
+2014,313990,,1
+2014,314010,Boid,1
+2014,314240,RPG Tycoon,1
+2014,314980,Supreme Ruler Ultimate,1
+2014,316260,Disney Universe,1
+2014,317260,,1
+2014,317440,Quantum Rush Champions,1
+2014,317470,Cubic Castles,1
+2014,317620,Space Hulk Ascension,1
+2014,317660,Call of Duty®: Advanced Warfare - Season Pass,1
+2014,317960,,1
+2014,318220,Enforcer: Police Crime Action,1
+2014,318420,Middle-earth: Shadow of Mordor - The Bright Lord,1
+2014,318430,Squishy the Suicidal Pig,1
+2014,318520,Euro Truck Simulator 2 - Christmas Paint Jobs Pack,1
+2014,318550,Middle-earth: Shadow of Mordor - GOTY Edition Upgrade,1
+2014,319050,Chaos Reborn,1
+2014,319080,Disney Princess: My Fairytale Adventure,1
+2014,319130,,1
+2014,319150,,1
+2014,319400,Disney Winnie the Pooh,1
+2014,319450,Chariot,1
+2014,319550,The Collider,1
+2014,321060,Gender Bender DNA Twister Extreme,1
+2014,321300,Mount & Blade: Warband - Viking Conquest Reforged Edition,1
+2014,321400,Supraball,1
+2014,321410,Command: Modern Air / Naval Operations WOTY,1
+2014,321480,Sigils of Elohim,1
+2014,321840,Rising Angels: Reborn,1
+2014,321860,,1
+2014,321980,Hardland,1
+2014,322010,,1
+2014,322060,Middle-earth: Shadow of Mordor - Power of Shadow,1
+2014,322980,Gods vs Humans,1
+2014,323180,Portal 2 Soundtrack,1
+2014,323240,The World II: Hunting BOSS,1
+2014,323580,Jotun: Valhalla Edition,1
+2014,323910,SteamVR Performance Test,1
+2014,323930,,1
+2014,324120,Verde Station,1
+2014,324170,,1
+2014,325724,Dying Light: The Following,1
+2014,327140,,1
+2014,327280,Total War: ROME II - Wrath of Sparta Campaign Pack,1
+2014,327740,Tron 2.0,1
+2014,327950,Sword of the Samurai,1
+2014,328700,,1
+2014,328830,Rugby Union Team Manager 2015,1
+2014,328940,The Deer God,1
+2014,329190,,1
+2014,329650,NAM,1
+2014,330820,2064: Read Only Memories,1
+2014,331160,Disney•Pixar Cars,1
+2014,332540,We Slay Monsters,1
+2014,333250,Forward to the Sky,1
+2014,333600,,1
+2014,334210,Fortified,1
+2014,334400,,1
+2014,334780,Project CARS - Stanceworks Track Expansion,1
+2014,335000,Tormentum - Dark Sorrow,1
+2014,335070,VRC PRO,1
+2014,335330,Brick-Force,1
+2014,336310,,1
+2014,336610,Outcast 1.1,1
+2014,337850,Avernum 2: Crystal Souls,1
+2014,338310,Warden: Melody of the Undergrowth,1
+2014,338390,,1
+2014,338400,,1
+2014,339120,Fork Parker's Holiday Profit Hike,1
+2014,339350,Choice of Robots,1
+2014,339480,PAYDAY 2: The Bomb Heists,1
+2014,340730,,1
+2014,342370,Europe at War,1
+2014,343464,Total War: ATTILA - Age of Charlemagne Campaign Pack,1
+2014,343560,Bob Was Hungry,1
+2014,344450,Goat Simulator: GoatZ,1
+2014,346940,Shadowrun: Hong Kong - Extended Edition,1
+2014,347560,Terra Incognita ~ Chapter One: The Descendant,1
+2014,347610,Hidden Object Bundle 4 in 1,1
+2014,348490,Beyond Sol,1
+2014,348710,Saint Seiya: Soldiers' Soul,1
+2014,348860,,1
+2014,350810,Pixel Puzzles 2: Anime,1
+2014,351700,UnReal World,1
+2014,352520,The Silent Age,1
+2014,353330,Love at First Sight,1
+2014,354400,Tadpole Treble,1
+2014,354430,STAR WARS™ - X-Wing Special Edition,1
+2014,355000,GlassWire,1
+2014,355150,gravilon,1
+2014,355880,,1
+2014,355960,Age of Mythology EX: Tale of the Dragon,1
+2014,357010,,1
+2014,357700,Rogue Continuum,1
+2014,357850,,1
+2014,358130,The Curious Expedition,1
+2014,358750,,1
+2014,359940,,1
+2014,361280,Turmoil,1
+2014,362930,Garfield Kart,1
+2014,364390,Downfall,1
+2014,365360,Battle Brothers,1
+2014,365810,Flying Tigers: Shadows Over China,1
+2014,366040,Iggy's Egg Adventure,1
+2014,366843,Call of Duty®: Black Ops III - Season Pass,1
+2014,366844,,1
+2014,367010,Vernon's Legacy,1
+2014,367270,Angels Fall First,1
+2014,367300,Pixel Star,1
+2014,368370,Her Story,1
+2014,368750,,1
+2014,368860,Garbage Day,1
+2014,369290,Airport Madness: World Edition,1
+2014,369300,Adventure Time: Finn and Jake Investigations,1
+2014,370040,Lilly and Sasha: Nexus of Souls,1
+2014,370280,Season of 12 Colors,1
+2014,371100,Waste Walkers,1
+2014,371190,Making History: The Calm and the Storm Gold Edition,1
+2014,371200,Halcyon 6: Starbase Commander,1
+2014,371570,Tap Heroes,1
+2014,373360,Cast of the Seven Godsends - Redux,1
+2014,374040,Portal Knights,1
+2014,376770,Big Thinkers 1st Grade,1
+2014,377140,Hide & Hold Out - H2o,1
+2014,378041,"Warhammer® 40,000™: Dawn of War® II - Retribution - The Last Stand Necron Overlord",1
+2014,379310,LISA the Joyful,1
+2014,379542,FSX: Steam Edition - REX 4 Texture Direct Enhanced Edition Add-On,1
+2014,379560,FSX: Steam Edition - HD Airport Graphics Add-On,1
+2014,379670,,1
+2014,380220,,1
+2014,382050,Eon Altar,1
+2014,382110,,1
+2014,382890,FINAL FANTASY V,1
+2014,383270,Hue,1
+2014,383790,The Ship: Remasted,1
+2014,384000,Cross of the Dutchman,1
+2014,384180,Prominence Poker,1
+2014,384490,NECROPOLIS: BRUTAL EDITION,1
+2014,384500,Zombie Party,1
+2014,386180,Crossout,1
+2014,387290,Ori and the Blind Forest: Definitive Edition,1
+2014,387370,Sol 0: Mars Colonization,1
+2014,388210,Day of the Tentacle Remastered,1
+2014,389510,Wild Animal Racing,1
+2014,390290,Bulb Boy,1
+2014,390340,Umbrella Corps™/Biohazard Umbrella Corps™,1
+2014,390730,Sora,1
+2014,394120,Atom Universe,1
+2014,394380,BattleStick,1
+2014,394870,,1
+2014,395140,Miracle Fly,1
+2014,395200,Ben and Ed,1
+2014,395238,HELLDIVERS™ - Weapons Pack,1
+2014,396480,Battlevoid: Harbinger,1
+2014,396750,,1
+2014,397100,MachineCraft,1
+2014,397610,,1
+2014,397690,Hyperspace Invaders II: Pixel Edition,1
+2014,398070,Protoshift,1
+2014,398850,Epistory - Typing Chronicles,1
+2014,398913,Armello - Usurpers Hero Pack,1
+2014,399070,Dragon's Wake,1
+2014,401980,,1
+2014,402290,3DMark Fire Strike benchmarks,1
+2014,402570,Atlas Reactor,1
+2014,402620,Kindred Spirits on the Roof,1
+2014,402630,The Coma: Cutting Class,1
+2014,403860,ALPAGES : THE FIVE BOOKS,1
+2014,404011,,1
+2014,404012,,1
+2014,404090,Fallout 4 Season Pass,1
+2014,405310,LEGO® MARVEL's Avengers,1
+2014,407060,,1
+2014,407120,Soccer Manager 2016,1
+2014,407210,Dungeon of the Endless™ - Organic Matters Update,1
+2014,407900,Princess Remedy in a World of Hurt,1
+2014,409170,Contract,1
+2014,409440,SnakEscape,1
+2014,409490,Rogue Harvest,1
+2014,410110,12 is Better Than 6,1
+2014,410820,Starward Rogue,1
+2014,411080,SHOWTIME 2073,1
+2014,411370,Melty Blood Actress Again Current Code,1
+2014,411830,SENRAN KAGURA SHINOVI VERSUS,1
+2014,411960,TY the Tasmanian Tiger,1
+2014,412450,The Black Death,1
+2014,412830,STEINS;GATE,1
+2014,413170,Metal Assault,1
+2014,414080,Life is Hard,1
+2014,416550,Rubber Ducky and the Rainbow Gun,1
+2014,416760,Pay2Win: The Tricks Exposed,1
+2014,417461,Tom Clancy's Rainbow Six® Siege - The Safari Bundle,1
+2014,417750,Left Alone,1
+2014,418010,,1
+2014,418190,Helen's Mysterious Castle,1
+2014,419460,"That Dragon, Cancer",1
+2014,420740,The Deed,1
+2014,421040,Plantera,1
+2014,421670,CUPID - A free to play Visual Novel,1
+2014,422100,,1
+2014,423230,Furi,1
+2014,423580,Project Highrise,1
+2014,423700,Apocalypse Hotel - The Post-Apocalyptic Hotel Simulator!,1
+2014,423840,,1
+2014,424370,Wolcen: Lords of Mayhem,1
+2014,425220,One Piece Burning Blood,1
+2014,427100,Fernbus Simulator,1
+2014,427250,8-Bit Armies,1
+2014,427810,CALENDULA,1
+2014,427910,Zavix Tower,1
+2014,427920,,1
+2014,427950,The Withering,1
+2014,428220,TurnOn,1
+2014,428370,,1
+2014,428900,"Linea, the Game",1
+2014,429050,Feed and Grow: Fish,1
+2014,429700,Squirbs,1
+2014,430440,Of Kings And Men,1
+2014,431500,Clash of the Monsters,1
+2014,431510,Mystic Destinies: Serendipity of Aeons,1
+2014,431560,Hard Room,1
+2014,431770,Rivalry,1
+2014,431840,3DRPG,1
+2014,432590,And So It Was,1
+2014,433090,XCOM 2: Alien Hunters,1
+2014,433270,JourneyQuest Season One,1
+2014,433530,Heliborne,1
+2014,434020,Last Hope - Tower Defense,1
+2014,434250,Masked Shooters 2,1
+2014,434370,Buried: An Interactive Story,1
+2014,434420,The Chosen RPG,1
+2014,434620,Pythagoria,1
+2014,434780,The Renegades of Orion 2.0,1
+2014,435530,The Final Station,1
+2014,435880,Fallout 4 - Wasteland Workshop,1
+2014,436090,Factorio - Soundtrack,1
+2014,436120,Expansion - Europa Universalis IV: Mare Nostrum,1
+2014,436150,Governor of Poker 3,1
+2014,436470,Gamma Bros 1.5,1
+2014,436500,Diaries of a Spaceport Janitor,1
+2014,436520,Line of Sight,1
+2014,436820,,1
+2014,437080,,1
+2014,437900,Party Jousting,1
+2014,438080,Surfingers,1
+2014,438270,Learn Japanese To Survive! Hiragana Battle,1
+2014,438680,One Troll Army,1
+2014,438690,Rocket League® - Batman v Superman: Dawn of Justice Car Pack,1
+2014,438920,Legends of Callasia,1
+2014,440930,HITMAN™: Episode 3 - Marrakesh,1
+2014,440980,Warhammer: End Times - Vermintide Last Stand,1
+2014,441050,Polandball: Can into Space!,1
+2014,441540,JourneyQuest Season Two,1
+2014,441730,Elite Dangerous: Pilot Starter Pack,1
+2014,441790,Fragmented,1
+2014,441830,I am Setsuna,1
+2014,441920,,1
+2014,444190,Princess Edge - Dragonstone,1
+2014,444550,,1
+2014,444640,Bloons TD Battles,1
+2014,444860,,1
+2014,444880,Death Stair,1
+2014,445130,The Average Everyday Adventures of Samantha Browne,1
+2014,445440,Flowers -Le volume sur printemps- Demo,1
+2014,445750,Settled,1
+2014,446020,Jalopy,1
+2014,446120,Bunker Punks,1
+2014,446470,New York Taxi Simulator,1
+2014,447500,,1
+2014,447880,,1
+2014,448510,Overcooked,1
+2014,448530,Square's Route,1
+2014,449020,The Bottom of the Well,1
+2014,449040,Jesus Christ RPG Trilogy,1
+2014,449550,Chicken Invaders 2,1
+2014,449710,REDCON,1
+2014,449980,Expansion - Crusader Kings II: The Reaper's Due,1
+2014,451000,Ember Kaboom,1
+2014,451520,,1
+2014,451840,,1
+2014,454320,[the Sequence],1
+2014,455490,"Don't Die Dateless, Dummy!",1
+2014,456610,,1
+2014,457195,Rocket League® - Aftershock,1
+2014,457197,Rocket League® - Masamune,1
+2014,457520,Moustache Mountain,1
+2014,458000,March of the Living,1
+2014,458730,,1
+2014,458830,Snooker Nation Championship,1
+2014,459940,,1
+2014,461244,Euro Truck Simulator 2 - Mighty Griffin Tuning Pack,1
+2014,461400,Massive,1
+2014,463110,Farnham Fables,1
+2014,463290,,1
+2014,463390,One Thousand Lies,1
+2014,463490,,1
+2014,465020,Sector Six,1
+2014,466910,Worm.is: The Game,1
+2014,467900,SWORDY,1
+2014,468240,,1
+2014,469990,,1
+2014,471710,,1
+2014,472060,Ortus Regni,1
+2014,472680,Elisa: The Innkeeper - Prequel,1
+2014,474010,The NADI Project,1
+2014,477160,Human: Fall Flat,1
+2014,477270,,1
+2014,477310,Space Hole,1
+2014,480630,Fallout 4 - Contraptions Workshop,1
+2014,485800,Runeous: Part One,1
+2014,487220,Freebie,1
+2014,487700,Conan the mighty pig,1
+2014,488310,,1
+2014,489700,Battle Forever,1
+2014,490650,,1
+2014,494470,My Butler,1
+2014,495910,Dungeon Fighter Online,1
+2014,496240,,1
+2014,496250,,1
+2014,497180,Street Legal Racing: Redline v2.3.1,1
+2014,497850,8-Bit Hordes,1
+2014,498580,ASRECorp,1
+2014,499100,Dark Parables: The Exiled Prince Collector's Edition,1
+2014,501800,,1
+2014,502550,Strike.is: The Game,1
+2014,503770,,1
+2014,508600,ROD: Revolt Of Defense,1
+2014,509840,,1
+2014,514520,Sparky's Hunt,1
+2014,516040,Everything is Peachy,1
+2014,520550,American Truck Simulator - Steering Creations Pack,1
+2014,521340,True or False,1
+2014,521430,Super Switch,1
+2014,521990,Galactic Storm,1
+2014,527340,What The Box?,1
+2015,730,Counter-Strike: Global Offensive,1170
+2015,440,Team Fortress 2,410
+2015,4000,Garry's Mod,231
+2015,218620,,175
+2015,570,,170
+2015,252950,Rocket League®,170
+2015,304930,Unturned,161
+2015,271590,Grand Theft Auto V,160
+2015,346110,ARK: Survival Evolved,154
+2015,391540,Undertale,146
+2015,105600,Terraria,145
+2015,377160,Fallout 4,135
+2015,319630,Life is Strange - Episode 1,127
+2015,72850,,105
+2015,417860,Emily is Away,101
+2015,252490,Rust,93
+2015,333930,Dirty Bomb®,92
+2015,230410,Warframe,91
+2015,304050,Trove,89
+2015,292030,,83
+2015,346900,AdVenture Capitalist,82
+2015,295110,,81
+2015,227940,Heroes & Generals,72
+2015,232090,Killing Floor 2,69
+2015,301520,Robocraft,66
+2015,264710,,64
+2015,49520,Borderlands 2,62
+2015,550,Left 4 Dead 2,61
+2015,322330,Don't Starve Together,61
+2015,221100,DayZ,60
+2015,311210,Call of Duty®: Black Ops III,58
+2015,250900,The Binding of Isaac: Rebirth,57
+2015,239140,Dying Light,55
+2015,107410,Arma 3,54
+2015,255710,Cities: Skylines,54
+2015,363970,Clicker Heroes,53
+2015,236390,,52
+2015,222880,Insurgency,51
+2015,322170,Geometry Dash,51
+2015,620,Portal 2,48
+2015,8930,Sid Meier's Civilization® V,47
+2015,291550,Brawlhalla,47
+2015,386360,SMITE®,47
+2015,211820,Starbound,45
+2015,244850,,44
+2015,346010,Besiege,43
+2015,225540,Just Cause™ 3,41
+2015,313120,Stranded Deep,41
+2015,242860,Verdun,40
+2015,273350,Evolve Stage 2,40
+2015,359550,Tom Clancy's Rainbow Six® Siege,40
+2015,8870,BioShock Infinite,39
+2015,330830,Tales from the Borderlands,39
+2015,22380,Fallout: New Vegas,38
+2015,34900,Bad Rats: the Rats' Revenge,38
+2015,208650,Batman™: Arkham Knight,37
+2015,233450,Prison Architect,36
+2015,287700,METAL GEAR SOLID V: THE PHANTOM PAIN,36
+2015,203160,Tomb Raider,35
+2015,218230,PlanetSide 2,34
+2015,234140,Mad Max,34
+2015,374570,Kung Fury,34
+2015,48700,Mount & Blade: Warband,33
+2015,323370,TERA,33
+2015,339800,HuniePop,33
+2015,240,Counter-Strike: Source,31
+2015,204360,Castle Crashers®,31
+2015,206420,Saints Row IV,31
+2015,303210,The Beginner's Guide,31
+2015,207140,SpeedRunners,30
+2015,383080,,30
+2015,261570,Ori and the Blind Forest,29
+2015,261640,Borderlands: The Pre-Sequel,28
+2015,274940,Depth,28
+2015,344760,Reign Of Kings,28
+2015,265630,Fistful of Frags,26
+2015,220,Half-Life 2,25
+2015,219740,,25
+2015,238460,BattleBlock Theater®,25
+2015,104900,ORION: Prelude,24
+2015,224260,No More Room in Hell,24
+2015,236110,Dungeon Defenders II,24
+2015,298630,The Escapists,24
+2015,8190,Just Cause 2,23
+2015,50300,Spec Ops: The Line,23
+2015,55230,Saints Row: The Third,23
+2015,219150,Hotline Miami,23
+2015,219640,Chivalry: Medieval Warfare,23
+2015,220200,Kerbal Space Program,23
+2015,282900,Hyperdimension Neptunia Re;Birth1 / 超次次元ゲイム ネプテューヌRe;Birth1 / 超次次元遊戲戰機少女重生1,23
+2015,242760,The Forest,22
+2015,302830,BLOCKADE 3D,22
+2015,305620,The Long Dark,22
+2015,334230,Town of Salem,22
+2015,1250,Killing Floor,21
+2015,200210,Realm of the Mad God,21
+2015,238960,,21
+2015,248820,Risk of Rain,21
+2015,265930,Goat Simulator,21
+2015,317400,Portal Stories: Mel,21
+2015,205100,Dishonored,20
+2015,221380,Age of Empires II HD,20
+2015,245170,Skullgirls,20
+2015,323470,DRAGON BALL XENOVERSE,20
+2015,333600,,20
+2015,359320,,20
+2015,22370,Fallout 3: Game of the Year Edition,19
+2015,200510,XCOM: Enemy Unknown,19
+2015,223470,POSTAL 2,19
+2015,241930,Middle-earth™: Shadow of Mordor™,19
+2015,244930,SNOW,19
+2015,282070,This War of Mine,19
+2015,306130,The Elder Scrolls® Online: Tamriel Unlimited™,19
+2015,310370,The Way of Life Free Edition,19
+2015,359050,Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad,19
+2015,209650,Call of Duty®: Advanced Warfare - Gold Edition,18
+2015,227300,Euro Truck Simulator 2,18
+2015,242680,Nuclear Throne,18
+2015,248570,Toribash,18
+2015,274190,Broforce,18
+2015,209870,Blacklight: Retribution,17
+2015,211420,DARK SOULS™: Prepare To Die™ Edition,17
+2015,212680,FTL: Faster Than Light,17
+2015,317360,Double Action: Boogaloo,17
+2015,335240,Transformice,17
+2015,409160,"Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist",17
+2015,6060,"Star Wars: Battlefront 2 (Classic, 2005)",16
+2015,113400,APB Reloaded,16
+2015,204300,Awesomenauts - the 2D moba,16
+2015,251570,,16
+2015,287390,Metro: Last Light Redux,16
+2015,310380,Fractured Space,16
+2015,330840,Game of Thrones - A Telltale Games Series,16
+2015,332800,Five Nights at Freddy's 2,16
+2015,352460,Dead Realm,16
+2015,401920,The Binding of Isaac: Afterbirth,16
+2015,214490,Alien: Isolation,15
+2015,299360,Block N Load,15
+2015,316010,Magic Duels,15
+2015,393380,Squad,15
+2015,1840,Source Filmmaker,14
+2015,51100,Tactical Intervention,14
+2015,65980,Sid Meier's Civilization®: Beyond Earth™,14
+2015,209080,Guns of Icarus Online,14
+2015,213670,South Park™: The Stick of Truth™,14
+2015,231430,Company of Heroes 2,14
+2015,235540,Warhammer: End Times - Vermintide,14
+2015,239820,Game Dev Tycoon,14
+2015,280790,,14
+2015,313340,Mountain,14
+2015,354140,Five Nights at Freddy's 3,14
+2015,385770,Time Clickers,14
+2015,418340,RWBY: Grimm Eclipse,14
+2015,10090,Call of Duty: World at War,13
+2015,10180,Call of Duty®: Modern Warfare® 2,13
+2015,24240,PAYDAY™ The Heist,13
+2015,200260,Batman: Arkham City - Game of the Year Edition,13
+2015,230290,,13
+2015,262060,Darkest Dungeon®,13
+2015,270550,Yet Another Zombie Defense,13
+2015,285900,Gang Beasts,13
+2015,335300,DARK SOULS™ II: Scholar of the First Sin,13
+2015,338170,Ratz Instagib,13
+2015,355180,Codename CURE,13
+2015,362890,Black Mesa,13
+2015,7670,BioShock™,12
+2015,40800,Super Meat Boy,12
+2015,201810,Wolfenstein: The New Order,12
+2015,220240,Far Cry 3,12
+2015,221640,Super Hexagon,12
+2015,236850,Europa Universalis IV,12
+2015,237930,Transistor,12
+2015,257510,The Talos Principle,12
+2015,264200,One Finger Death Punch,12
+2015,287980,Mini Metro,12
+2015,291480,Warface,12
+2015,298110,Far Cry® 4,12
+2015,307780,Mortal Kombat X,12
+2015,369200,,12
+2015,376870,Minecraft: Story Mode - A Telltale Games Series,12
+2015,34330,,11
+2015,99900,Spiral Knights,11
+2015,202970,Call of Duty®: Black Ops II,11
+2015,206190,Gunpoint,11
+2015,236370,Interstellar Marines,11
+2015,271290,,11
+2015,274170,Hotline Miami 2: Wrong Number,11
+2015,286160,,11
+2015,312530,Duck Game,11
+2015,319510,Five Nights at Freddy's,11
+2015,337320,Paint the Town Red,11
+2015,346120,Boring Man - Online Tactical Stickman Combat,11
+2015,351640,Eternal Senia,11
+2015,356670,Spooky's Jump Scare Mansion,11
+2015,369580,NotGTAV,11
+2015,375950,Viridi,11
+2015,385800,,11
+2015,388090,Five Nights at Freddy's 4,11
+2015,70,Half-Life,10
+2015,400,Portal,10
+2015,33930,Arma 2: Operation Arrowhead,10
+2015,200710,Torchlight II,10
+2015,203140,Hitman: Absolution™,10
+2015,207610,The Walking Dead,10
+2015,219990,Grim Dawn,10
+2015,221910,The Stanley Parable,10
+2015,233720,Surgeon Simulator,10
+2015,238320,Outlast,10
+2015,247080,Crypt of the NecroDancer,10
+2015,278360,A Story About My Uncle,10
+2015,306460,Unturned - Permanent Gold Upgrade,10
+2015,310560,,10
+2015,318430,Squishy the Suicidal Pig,10
+2015,325610,Total War: ATTILA,10
+2015,345650,Without Within,10
+2015,353560,Plug & Play,10
+2015,355840,Survarium,10
+2015,418070,Turbo Pug,10
+2015,10,Counter-Strike,9
+2015,42910,Magicka,9
+2015,50130,Mafia II,9
+2015,107100,Bastion,9
+2015,109600,Neverwinter,9
+2015,224540,Ace of Spades: Battle Builder,9
+2015,243870,,9
+2015,253710,theHunter Classic,9
+2015,259080,Just Cause 2: Multiplayer Mod,9
+2015,266010,LYNE,9
+2015,273110,Counter-Strike Nexon: Zombies,9
+2015,296470,Mount Your Friends,9
+2015,313740,,9
+2015,368230,Kingdom: Classic,9
+2015,383980,Rivals of Aether,9
+2015,389570,Mitos.is: The Game,9
+2015,393420,Hurtworld,9
+2015,397340,SimplePlanes,9
+2015,423880,Carpe Diem,9
+2015,6000,STAR WARS™ Republic Commando™,8
+2015,9480,Saints Row 2,8
+2015,11610,Dragon Nest,8
+2015,17410,Mirror's Edge™,8
+2015,22300,Fallout 3,8
+2015,35140,Batman: Arkham Asylum Game of the Year Edition,8
+2015,39000,,8
+2015,113200,The Binding of Isaac,8
+2015,203770,Crusader Kings II,8
+2015,204450,Call of Juarez® Gunslinger,8
+2015,206440,To the Moon,8
+2015,206500,AirMech Strike,8
+2015,209000,Batman™: Arkham Origins,8
+2015,212070,Star Conflict,8
+2015,214420,Gear Up,8
+2015,214950,Total War™: ROME II - Emperor Edition,8
+2015,222900,,8
+2015,223710,Cry of Fear,8
+2015,233250,,8
+2015,260230,Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™,8
+2015,268420,Aura Kingdom,8
+2015,268750,Magicite,8
+2015,298240,Red Crucible®: Firestorm,8
+2015,299740,Miscreated,8
+2015,301910,Saints Row: Gat out of Hell,8
+2015,332310,LEGO® Worlds,8
+2015,333950,Medieval Engineers,8
+2015,349700,Romero's Aftermath,8
+2015,351570,Killing Floor: Uncovered,8
+2015,365450,Hacknet,8
+2015,373180,Kung Fury: Street Rage,8
+2015,388520,,8
+2015,391460,WARMODE,8
+2015,4700,Medieval II: Total War™,7
+2015,10500,Empire: Total War™,7
+2015,10680,Aliens vs. Predator™,7
+2015,12210,,7
+2015,17080,Tribes: Ascend,7
+2015,17520,Synergy,7
+2015,20900,The Witcher: Enhanced Edition Director's Cut,7
+2015,29800,Caster,7
+2015,32370,STAR WARS™ - Knights of the Old Republic™,7
+2015,35450,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,7
+2015,42680,,7
+2015,42700,Call of Duty®: Black Ops,7
+2015,63380,Sniper Elite V2,7
+2015,65800,Dungeon Defenders,7
+2015,94400,Nidhogg,7
+2015,210770,Sanctum 2,7
+2015,212160,Vindictus,7
+2015,221260,Little Inferno,7
+2015,226700,,7
+2015,227700,,7
+2015,237310,Elsword,7
+2015,242920,Banished,7
+2015,244160,Homeworld Remastered Collection,7
+2015,250260,Jazzpunk: Director's Cut,7
+2015,253250,Stonehearth,7
+2015,263280,SPINTIRES™,7
+2015,266510,Hand of Fate,7
+2015,281690,,7
+2015,302510,Ryse: Son of Rome,7
+2015,312990,The Expendabros,7
+2015,320300,,7
+2015,327890,I am Bread,7
+2015,339610,Freestyle 2: Street Basketball,7
+2015,350080,Wolfenstein: The Old Blood,7
+2015,351290,Survival: Postapocalypse Now,7
+2015,365670,Blender,7
+2015,387860,the static speaks my name,7
+2015,24010,Train Simulator,6
+2015,24200,DC Universe™ Online,6
+2015,39140,FINAL FANTASY VII,6
+2015,39210,FINAL FANTASY XIV Online,6
+2015,105450,Age of Empires® III: Complete Collection,6
+2015,206210,Gotham City Impostors Free to Play,6
+2015,219830,King Arthur's Gold,6
+2015,224760,FEZ,6
+2015,226860,Galactic Civilizations III,6
+2015,233130,Shadow Warrior,6
+2015,233610,,6
+2015,234630,,6
+2015,236090,Dust: An Elysian Tail,6
+2015,236430,DARK SOULS™ II,6
+2015,236450,PAC-MAN™ Championship Edition DX+,6
+2015,239030,"Papers, Please",6
+2015,241600,Rogue Legacy,6
+2015,243470,Watch_Dogs™,6
+2015,246620,Plague Inc: Evolved,6
+2015,247000,Talisman: Digital Edition,6
+2015,250400,How to Survive,6
+2015,250760,Shovel Knight: Treasure Trove,6
+2015,261030,The Walking Dead: Season 2,6
+2015,263060,Blockstorm,6
+2015,266840,,6
+2015,268650,From the Depths,6
+2015,274900,Murder Miners,6
+2015,282140,SOMA,6
+2015,282440,Quake Live™,6
+2015,284160,BeamNG.drive,6
+2015,293260,Card Hunter,6
+2015,294860,Valkyria Chronicles™,6
+2015,301640,Zombie Army Trilogy,6
+2015,306020,Bloons TD 5,6
+2015,307690,Sleeping Dogs: Definitive Edition,6
+2015,307880,Savage Lands,6
+2015,311340,METAL GEAR SOLID V: GROUND ZEROES,6
+2015,335670,LISA,6
+2015,358150,PAYDAY 2: The Butcher's BBQ Pack,6
+2015,367580,Hook,6
+2015,393010,Don't Starve: Shipwrecked,6
+2015,393410,World of Soccer online,6
+2015,402180,,6
+2015,300,Day of Defeat: Source,5
+2015,380,Half-Life 2: Episode One,5
+2015,420,Half-Life 2: Episode Two,5
+2015,6860,Hitman: Blood Money,5
+2015,9450,"Warhammer® 40,000: Dawn of War® - Soulstorm",5
+2015,20500,Red Faction Guerrilla Steam Edition,5
+2015,22330,The Elder Scrolls IV: Oblivion® Game of the Year Edition,5
+2015,24960,Battlefield: Bad Company™ 2,5
+2015,31280,Poker Night at the Inventory,5
+2015,91310,,5
+2015,95400,ibb & obb,5
+2015,108600,Project Zomboid,5
+2015,110800,L.A. Noire,5
+2015,113020,Monaco: What's Yours Is Mine,5
+2015,207230,ArcheBlade™,5
+2015,208090,Loadout,5
+2015,209160,Call of Duty®: Ghosts,5
+2015,216150,MapleStory,5
+2015,225080,Brothers - A Tale of Two Sons,5
+2015,227180,Kingdom Wars,5
+2015,228380,Next Car Game: Wreckfest,5
+2015,232430,Gone Home,5
+2015,234710,Poker Night 2,5
+2015,235460,METAL GEAR RISING: REVENGEANCE,5
+2015,235780,MINERVA,5
+2015,238010,Deus Ex: Human Revolution - Director's Cut,5
+2015,245620,Tropico 5,5
+2015,249130,LEGO® Marvel™ Super Heroes,5
+2015,250320,The Wolf Among Us,5
+2015,251170,Damned,5
+2015,251870,Go! Go! Nippon! ~My First Trip to Japan~,5
+2015,262410,World of Guns: Gun Disassembly,5
+2015,263980,Out There Somewhere,5
+2015,266430,Anarchy Arcade,5
+2015,267530,The LEGO® Movie - Videogame,5
+2015,269210,Hero Siege,5
+2015,285920,TerraTech,5
+2015,287290,Resident Evil Revelations 2 / Biohazard Revelations 2,5
+2015,289130,Endless Legend™,5
+2015,290340,Armello,5
+2015,298520,Orbital Gear,5
+2015,302670,Call to Arms,5
+2015,303390,Dead Bits,5
+2015,310080,Hatoful Boyfriend,5
+2015,311560,Assassin’s Creed® Rogue,5
+2015,313690,LEGO® Batman™3: Beyond Gotham,5
+2015,315430,Polarity,5
+2015,320140,Absolute Drift,5
+2015,322920,theHunter: Primal,5
+2015,323320,,5
+2015,326410,Windward,5
+2015,329440,Sonic Lost World,5
+2015,333980,AKIBA'S TRIP: Undead ＆ Undressed,5
+2015,339280,Strife®,5
+2015,340170,FINAL FANTASY TYPE-0™ HD,5
+2015,341800,,5
+2015,346250,The Old Tree,5
+2015,348090,PAYDAY 2: The OVERKILL Pack,5
+2015,348620,Voices from the Sea,5
+2015,353360,how do you Do It?,5
+2015,354500,PAYDAY: The Web Series,5
+2015,356570,Party Hard,5
+2015,375820,Human Resource Machine,5
+2015,380600,Fishing Planet,5
+2015,381120,Shoppe Keep,5
+2015,383120,Empyrion - Galactic Survival,5
+2015,386070,Planetary Annihilation: TITANS,5
+2015,390670,Steel Ocean,5
+2015,405170,Rocket League® - Back to the Future™ Car Pack,5
+2015,630,Alien Swarm,4
+2015,2700,RollerCoaster Tycoon® 3: Platinum,4
+2015,3590,Plants vs. Zombies GOTY Edition,4
+2015,4580,"Warhammer® 40,000: Dawn of War® - Dark Crusade",4
+2015,9900,Star Trek Online,4
+2015,11020,TrackMania Nations Forever,4
+2015,12110,Grand Theft Auto: Vice City,4
+2015,12200,Bully: Scholarship Edition,4
+2015,15700,Oddworld: Abe's Oddysee®,4
+2015,17480,Command & Conquer: Red Alert 3,4
+2015,38410,Fallout 2: A Post Nuclear Role Playing Game,4
+2015,40100,Supreme Commander 2,4
+2015,57690,Tropico 4,4
+2015,67370,The Darkness II,4
+2015,70000,Dino D-Day,4
+2015,70400,Recettear: An Item Shop's Tale,4
+2015,102500,Kingdoms of Amalur: Reckoning™,4
+2015,104700,Super MNC,4
+2015,201790,Orcs Must Die! 2,4
+2015,202090,,4
+2015,208580,STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™,4
+2015,212500,The Lord of the Rings Online™,4
+2015,212800,Super Crate Box,4
+2015,214190,Minimum,4
+2015,219890,Antichamber,4
+2015,220440,DmC: Devil May Cry,4
+2015,224060,,4
+2015,230050,DLC Quest,4
+2015,234190,Receiver,4
+2015,237110,Mortal Kombat Komplete Edition,4
+2015,238090,Sniper Elite 3,4
+2015,239350,Spelunky,4
+2015,239660,Soldier Front 2,4
+2015,241540,State of Decay,4
+2015,244210,,4
+2015,244450,Men of War: Assault Squad 2,4
+2015,246900,,4
+2015,248310,Freedom Planet,4
+2015,249380,,4
+2015,250600,The Plan,4
+2015,253030,,4
+2015,255220,GRID Autosport,4
+2015,261180,Lethal League,4
+2015,269770,Secrets of Grindea,4
+2015,270450,Robot Roller-Derby Disco Dodgeball,4
+2015,275200,Westerado: Double Barreled,4
+2015,286100,You Have to Win the Game,4
+2015,286690,Metro 2033 Redux,4
+2015,290140,Echo of Soul,4
+2015,290790,Grey Goo,4
+2015,291210,,4
+2015,291650,Pillars of Eternity,4
+2015,304030,ArcheAge,4
+2015,313160,Farming Simulator 15,4
+2015,314160,Microsoft Flight Simulator X: Steam Edition,4
+2015,316390,sZone-Online,4
+2015,316720,planetarian ~the reverie of a little planet~,4
+2015,326480,If My Heart Had Wings,4
+2015,329950,,4
+2015,331200,Grass Simulator,4
+2015,331470,Everlasting Summer,4
+2015,331500,Executive Assault,4
+2015,332500,GRAV,4
+2015,345350,LIGHTNING RETURNS™: FINAL FANTASY® XIII,4
+2015,345390,King's Quest,4
+2015,351970,Tales of Zestiria,4
+2015,353270,Hyperdimension Neptunia Re;Birth3 V Generation / 神次次元ゲイム ネプテューヌRe;Birth3 V CENTURY,4
+2015,356070,Commander Cool 2,4
+2015,360740,Downwell,4
+2015,367120,Seduce Me the Otome,4
+2015,368340,CrossCode,4
+2015,370100,,4
+2015,373390,Contradiction - Spot The Liar!,4
+2015,374301,PAYDAY 2: Sokol Character Pack,4
+2015,375600,Air Brawl,4
+2015,378120,,4
+2015,382490,Relic Hunters Zero,4
+2015,383580,Flesh Eaters,4
+2015,384020,PAYDAY 2: Yakuza Character Pack,4
+2015,391720,Layers of Fear,4
+2015,394510,HELLDIVERS™,4
+2015,395520,Missing Translation,4
+2015,397430,Zoombinis,4
+2015,403190,Planetbase,4
+2015,404410,Endless Sky,4
+2015,404480,SC2VN - The eSports Visual Novel,4
+2015,413850,CS:GO Player Profiles,4
+2015,80,Counter-Strike: Condition Zero,3
+2015,130,Half-Life: Blue Shift,3
+2015,2280,Ultimate Doom,3
+2015,4570,"Warhammer® 40,000: Dawn of War® - Game of the Year Edition",3
+2015,4760,Rome: Total War™ - Collection,3
+2015,6910,Deus Ex: Game of the Year Edition,3
+2015,7940,Call of Duty® 4: Modern Warfare®,3
+2015,8500,EVE Online,3
+2015,8980,Borderlands,3
+2015,9930,Test Drive Unlimited 2,3
+2015,12120,Grand Theft Auto: San Andreas,3
+2015,12900,AudioSurf,3
+2015,15750,Oddworld: Stranger's Wrath HD,3
+2015,17390,SPORE™,3
+2015,19680,,3
+2015,22320,The Elder Scrolls III: Morrowind® Game of the Year Edition,3
+2015,24740,Burnout Paradise: The Ultimate Box,3
+2015,24860,,3
+2015,25000,Overgrowth,3
+2015,32400,STAR WARS™ - Dark Forces,3
+2015,35720,Trine 2: Complete Story,3
+2015,41700,S.T.A.L.K.E.R.: Call of Pripyat,3
+2015,44350,GRID 2,3
+2015,45760,Ultra Street Fighter® IV,3
+2015,47410,Stronghold Kingdoms,3
+2015,48705,Mount & Blade: Warband - Napoleonic Wars,3
+2015,63710,BIT.TRIP RUNNER,3
+2015,71340,Sonic Generations Collection,3
+2015,109400,,3
+2015,204880,Sins of a Solar Empire®: Rebellion,3
+2015,205950,Jet Set Radio,3
+2015,208750,Apotheon,3
+2015,211600,Thief™ Gold,3
+2015,212180,,3
+2015,212480,Sonic & All-Stars Racing Transformed,3
+2015,214560,Mark of the Ninja,3
+2015,215470,Primal Carnage,3
+2015,216250,,3
+2015,216260,Don Bradman Cricket 14,3
+2015,218680,Scribblenauts Unlimited,3
+2015,224600,Defiance,3
+2015,225140,,3
+2015,225260,Brutal Legend,3
+2015,230190,War for the Overworld,3
+2015,232790,Broken Age,3
+2015,233860,,3
+2015,235580,Sid Meier's Civilization V: Brave New World,3
+2015,237870,Planet Explorers,3
+2015,237990,The Banner Saga,3
+2015,239220,,3
+2015,240460,,3
+2015,242720,GunZ 2: The Second Duel,3
+2015,244770,StarMade,3
+2015,245280,ENSLAVED™: Odyssey to the West™ Premium Edition,3
+2015,245470,Democracy 3,3
+2015,245550,Free to Play,3
+2015,247020,"Cook, Serve, Delicious!",3
+2015,247730,Nether: Resurrected,3
+2015,248610,Door Kickers,3
+2015,250110,Assault Android Cactus,3
+2015,250500,Super Amazing Wagon Adventure,3
+2015,251060,Wargame: Red Dragon,3
+2015,251610,,3
+2015,252870,,3
+2015,257400,Fuse,3
+2015,258160,,3
+2015,261820,Estranged: Act I,3
+2015,263760,Turbo Dismount™,3
+2015,264140,Pixel Piracy,3
+2015,264380,Narcissu 1st & 2nd,3
+2015,265890,Hexcells,3
+2015,270150,RUNNING WITH RIFLES,3
+2015,271240,Offworld Trading Company,3
+2015,272510,NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution,3
+2015,272890,Vertiginous Golf,3
+2015,282660,EasyAntiCheat eSports,3
+2015,282800,100% Orange Juice,3
+2015,286080,Thinking with Time Machine,3
+2015,287450,Rise of Nations: Extended Edition,3
+2015,287920,Mortal Online,3
+2015,289650,Assassin's Creed® Unity,3
+2015,290300,Rebel Galaxy,3
+2015,292630,Uriel's Chasm,3
+2015,293760,Automation - The Car Company Tycoon Game,3
+2015,295270,,3
+2015,296490,GemCraft - Chasing Shadows,3
+2015,298030,Total Annihilation,3
+2015,299460,Woodle Tree Adventures,3
+2015,300080,Total War Battles: KINGDOM,3
+2015,300550,Shadowrun: Dragonfall - Director's Cut,3
+2015,300570,Infinifactory,3
+2015,304240,Resident Evil / biohazard HD REMASTER,3
+2015,304410,Hexcells Infinite,3
+2015,312280,Simply Chess,3
+2015,313730,,3
+2015,314230,Rodina,3
+2015,314660,Oddworld: New 'n' Tasty,3
+2015,316410,,3
+2015,316790,Grim Fandango Remastered,3
+2015,318530,Wings of Vi,3
+2015,319550,The Collider,3
+2015,321360,Primal Carnage: Extinction,3
+2015,322070,,3
+2015,324810,TOXIKK™,3
+2015,327640,CaesarIA,3
+2015,327860,Salt,3
+2015,329130,Reassembly,3
+2015,331670,The Jackbox Party Pack,3
+2015,332350,Arma 3 Marksmen,3
+2015,334040,,3
+2015,338000,Echoes+,3
+2015,340810,Deepworld,3
+2015,341000,Mad Games Tycoon,3
+2015,342200,MechWarrior Online™,3
+2015,342380,,3
+2015,344770,fault - milestone two side:above,3
+2015,345200,Tasty Blue,3
+2015,345370,TyranoBuilder Visual Novel Studio,3
+2015,345610,The Fruit of Grisaia,3
+2015,347830,Fairy Fencer F,3
+2015,351710,Hyperdimension Neptunia Re;Birth2: Sisters Generation / 超次次元ゲイム ネプテューヌRe;Birth2,3
+2015,357480,Frozen Free Fall: Snowball Fight,3
+2015,359800,Copa Petrobras de Marcas,3
+2015,360870,Ultimate Tic-Tac-Toe,3
+2015,361630,404Sight,3
+2015,362620,Software Inc.,3
+2015,367450,Poly Bridge,3
+2015,367670,Controller Companion,3
+2015,370240,NBA 2K16,3
+2015,373420,Divinity: Original Sin - Enhanced Edition,3
+2015,375510,New kind of adventure,3
+2015,376210,The Isle,3
+2015,378649,,3
+2015,384021,PAYDAY 2: Gage Ninja Pack,3
+2015,386880,Rake,3
+2015,391270,Fingerbones,3
+2015,401190,Dinosaur Hunt,3
+2015,409670,Pink Hour,3
+2015,410340,Liftoff,3
+2015,416690,,3
+2015,422400,PAYDAY 2: The Point Break Heists,3
+2015,20,Team Fortress Classic,2
+2015,60,Ricochet,2
+2015,1510,Uplink,2
+2015,2400,The Ship: Murder Party,2
+2015,2870,X Rebirth,2
+2015,3320,Insaniquarium Deluxe,2
+2015,4560,Company of Heroes - Legacy Edition,2
+2015,6020,STAR WARS™ Jedi Knight - Jedi Academy™,2
+2015,8080,Kane and Lynch: Dead Men™,2
+2015,8850,BioShock® 2,2
+2015,9200,RAGE,2
+2015,9420,Supreme Commander: Forged Alliance,2
+2015,13140,,2
+2015,13230,Unreal Tournament 2004: Editor's Choice Edition,2
+2015,13570,Tom Clancy's Splinter Cell Chaos Theory®,2
+2015,15320,IL-2 Sturmovik: 1946,2
+2015,15620,"Warhammer 40,000: Dawn of War II",2
+2015,17570,"Pirates, Vikings, and Knights II",2
+2015,22600,Worms Reloaded,2
+2015,24720,SPORE™ Galactic Adventures,2
+2015,24780,SimCity™ 4 Deluxe Edition,2
+2015,24980,Mass Effect 2,2
+2015,25890,Hearts of Iron III,2
+2015,26800,Braid,2
+2015,32430,STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition,2
+2015,32800,Lord of the Rings: War in the North,2
+2015,33230,Assassin's Creed 2 Deluxe Edition,2
+2015,34010,Alpha Protocol™,2
+2015,34030,Napoleon: Total War™,2
+2015,35700,Trine Enchanted Edition,2
+2015,39120,RIFT,2
+2015,39150,FINAL FANTASY VIII,2
+2015,40700,Machinarium,2
+2015,41070,,2
+2015,42160,,2
+2015,42960,Victoria II,2
+2015,43110,,2
+2015,48000,LIMBO,2
+2015,48240,,2
+2015,49600,Beat Hazard,2
+2015,50620,Darksiders™,2
+2015,50650,,2
+2015,55100,Homefront,2
+2015,55150,"Warhammer 40,000: Space Marine",2
+2015,56400,,2
+2015,91700,E.Y.E: Divine Cybermancy,2
+2015,92100,DETOUR,2
+2015,96100,Defy Gravity Extended,2
+2015,200170,Worms Revolution,2
+2015,201230,EverQuest® II Free-To-Play. Your Way.™,2
+2015,201870,,2
+2015,202170,,2
+2015,204100,Max Payne 3,2
+2015,204180,Waveform,2
+2015,204372,Castle Crashers - Blacksmith Pack,2
+2015,205650,The Testament of Sherlock Holmes,2
+2015,211260,They Bleed Pixels,2
+2015,211500,RaceRoom Racing Experience,2
+2015,211720,,2
+2015,212200,Mabinogi,2
+2015,212893,Dishonored - Void Walker Arsenal,2
+2015,214850,,2
+2015,214870,Painkiller Hell & Damnation,2
+2015,215100,Ragnarok Online,2
+2015,215280,Secret World Legends,2
+2015,217200,Worms Armageddon,2
+2015,218550,Borderlands 2: Tiny Tina's Assault on Dragon Keep,2
+2015,218640,Lucius,2
+2015,220780,Thomas Was Alone,2
+2015,221040,Resident Evil 6 / Biohazard 6,2
+2015,221300,,2
+2015,221680,Rocksmith® 2014 Edition - Remastered,2
+2015,223750,,2
+2015,223850,,2
+2015,224460,Contrast,2
+2015,226880,,2
+2015,227320,,2
+2015,228300,Remember Me,2
+2015,228880,,2
+2015,232810,,2
+2015,233290,Murdered: Soul Suspect,2
+2015,234920,Dyscourse,2
+2015,235600,Tom Clancy’s Splinter Cell Blacklist,2
+2015,238210,System Shock 2,2
+2015,238300,Saints Row IV: Commander-In-Chief Pack,2
+2015,238370,Magicka 2,2
+2015,238910,Bionic Dues,2
+2015,240970,Half Minute Hero: The Second Coming,2
+2015,241240,Contraption Maker,2
+2015,241560,The Crew™,2
+2015,242700,Injustice: Gods Among Us Ultimate Edition,2
+2015,243800,Gas Guzzlers Extreme,2
+2015,243970,"Invisible, Inc.",2
+2015,245130,,2
+2015,245370,Etherium,2
+2015,245390,"I Have No Mouth, and I Must Scream",2
+2015,248170,Clickteam Fusion 2.5,2
+2015,249050,Dungeon of the Endless™,2
+2015,250580,Paranautical Activity: Deluxe Atonement Edition,2
+2015,250620,Among the Sleep - Enhanced Edition,2
+2015,251150,The Legend of Heroes: Trails in the Sky,2
+2015,251430,The Inner World,2
+2015,251470,TowerFall Ascension,2
+2015,252350,Double Dragon: Neon,2
+2015,252530,OMSI 2: Steam Edition,2
+2015,253430,,2
+2015,256410,,2
+2015,257750,Bloody Trapland,2
+2015,258520,The Vanishing of Ethan Carter,2
+2015,261110,Killer is Dead - Nightmare Edition,2
+2015,265210,,2
+2015,265610,Epic Battle Fantasy 4,2
+2015,265750,Secret Ponchos,2
+2015,269050,Year Walk,2
+2015,269250,WORLD END ECONOMiCA episode.01,2
+2015,269370,,2
+2015,269490,Bardbarian,2
+2015,269650,,2
+2015,270210,Melody's Escape,2
+2015,270370,Lambda Wars Beta,2
+2015,270490,The Forest of Doom,2
+2015,277430,Halo: Spartan Assault,2
+2015,278080,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition / 真・三國無双７ with 猛将伝,2
+2015,280740,Aperture Tag: The Paint Gun Testing Initiative,2
+2015,282350,,2
+2015,284460,DeadCore,2
+2015,287840,TY the Tasmanian Tiger 4,2
+2015,289950,,2
+2015,290080,Life is Feudal: Your Own,2
+2015,290770,The Fall,2
+2015,290890,You Must Build A Boat,2
+2015,290930,Half-Life 2: Update,2
+2015,292120,FINAL FANTASY® XIII,2
+2015,292140,FINAL FANTASY® XIII-2,2
+2015,296710,,2
+2015,296970,Renowned Explorers: International Society,2
+2015,297020,,2
+2015,298260,Only If,2
+2015,299860,,2
+2015,300380,Road Redemption,2
+2015,301750,RADical ROACH Remastered,2
+2015,304730,Train Fever,2
+2015,307340,Platypus,2
+2015,307670,Hard West,2
+2015,308420,Ziggurat,2
+2015,312150,Wild Warfare,2
+2015,312630,OTTTD,2
+2015,314700,,2
+2015,315396,The Crew™ Season Pass,2
+2015,315460,,2
+2015,315600,Ford Racing 3,2
+2015,315810,eden*,2
+2015,318220,Enforcer: Police Crime Action,2
+2015,318230,Convoy,2
+2015,319050,Chaos Reborn,2
+2015,319560,Reprisal Universe,2
+2015,319740,There Came an Echo,2
+2015,321040,,2
+2015,321060,Gender Bender DNA Twister Extreme,2
+2015,321300,Mount & Blade: Warband - Viking Conquest Reforged Edition,2
+2015,322110,20XX,2
+2015,322910,"Warhammer 40,000: Regicide",2
+2015,323380,The Magic Circle,2
+2015,323610,911: First Responders®,2
+2015,324080,Rising World,2
+2015,327410,A Bird Story,2
+2015,328070,Reflex Arena,2
+2015,329050,Devil May Cry® 4 Special Edition,2
+2015,330570,Noct,2
+2015,330580,Shark Attack Deathmatch 2,2
+2015,331190,Master Spy,2
+2015,332570,Amazing Frog?,2
+2015,334070,Hektor,2
+2015,338470,,2
+2015,339350,Choice of Robots,2
+2015,340350,Quintet,2
+2015,341310,Greyfox RPG,2
+2015,341720,Among Ripples,2
+2015,342480,,2
+2015,342550,Phantasmal: Survival Horror Roguelike,2
+2015,342560,Airships: Conquer the Skies,2
+2015,343330,,2
+2015,343780,Cat Goes Fishing,2
+2015,345180,Victor Vran ARPG,2
+2015,345520,,2
+2015,346560,Hero of the Kingdom II,2
+2015,348470,SAMURAI WARRIORS 4-II,2
+2015,349480,Modular Combat,2
+2015,351090,Regency Solitaire,2
+2015,351800,Dev Guy,2
+2015,351890,PAYDAY 2: The Butcher's AK/CAR Mod Pack,2
+2015,351900,Pregnancy,2
+2015,352950,Better Late Than DEAD,2
+2015,354240,"Please, Don’t Touch Anything",2
+2015,356640,,2
+2015,357070,UBERMOSH,2
+2015,358090,D4: Dark Dreams Don’t Die -Season One-,2
+2015,360940,The Mean Greens - Plastic Warfare,2
+2015,363890,RPG Maker MV,2
+2015,366660,PAYDAY 2: The Alesso Heist,2
+2015,367570,oO,2
+2015,367780,Aero's Quest,2
+2015,368360,60 Seconds!,2
+2015,368730,No Time To Explain Remastered,2
+2015,368900,,2
+2015,368990,Despair,2
+2015,369400,Let the Cat in,2
+2015,372800,RPG MO,2
+2015,374300,PAYDAY 2: The Golden Grin Casino Heist,2
+2015,377560,Tom Clancy's Rainbow Six® Siege - Ultra HD Texture Pack,2
+2015,378642,,2
+2015,381990,Dragon Saga,2
+2015,383230,Dungeon Souls,2
+2015,384150,TeraBlaster,2
+2015,384300,CPUCores :: Maximize Your FPS,2
+2015,385710,INK,2
+2015,388080,Borderless Gaming,2
+2015,390520,PewDiePie: Legend of the Brofist,2
+2015,391570,UNDERTALE Soundtrack,2
+2015,396650,ACE Academy,2
+2015,397550,Deus Ex: Revision,2
+2015,398100,Highschool Romance,2
+2015,398180,,2
+2015,398710,Timberman,2
+2015,399790,Destiny Warriors RPG,2
+2015,400250,Heaven Island - VR MMO,2
+2015,402840,Crusaders of the Lost Idols,2
+2015,411560,Reveal The Deep,2
+2015,412140,Electric Highways,2
+2015,415030,One More Dungeon,2
+2015,415420,Nyan Cat: Lost In Space,2
+2015,416590,,2
+2015,416640,Diabolical,2
+2015,419070,Warhammer: End Times - Vermintide Sigmar's Blessing,2
+2015,30,Day of Defeat,1
+2015,50,Half-Life: Opposing Force,1
+2015,280,Half-Life: Source,1
+2015,500,Left 4 Dead,1
+2015,1520,DEFCON,1
+2015,1690,Space Empires V,1
+2015,2200,Quake III Arena,1
+2015,2270,Wolfenstein 3D,1
+2015,2300,DOOM II,1
+2015,2590,Alpha Prime,1
+2015,2600,Vampire: The Masquerade - Bloodlines,1
+2015,2620,Call of Duty®,1
+2015,2640,Call of Duty: United Offensive,1
+2015,2810,X3: Reunion,1
+2015,2820,X3: Terran Conflict,1
+2015,3170,King's Bounty: Armored Princess,1
+2015,3370,,1
+2015,3390,Feeding Frenzy 2 Deluxe,1
+2015,3710,Judge Dredd: Dredd vs. Death,1
+2015,3730,Aliens versus Predator Classic 2000,1
+2015,3900,Sid Meier's Civilization® IV,1
+2015,3920,Sid Meier's Pirates!,1
+2015,4540,,1
+2015,4550,,1
+2015,6030,STAR WARS™ Jedi Knight II - Jedi Outcast™,1
+2015,6370,Bloodline Champions,1
+2015,6800,Commandos: Behind Enemy Lines,1
+2015,6880,Just Cause,1
+2015,7600,Sid Meier's Railroads!,1
+2015,8000,Tomb Raider: Anniversary,1
+2015,8170,Battlestations Pacific,1
+2015,9050,DOOM 3,1
+2015,9180,Commander Keen,1
+2015,10130,TimeShift™,1
+2015,10604,Empire: Total War™ - Elite Units of the West,1
+2015,11280,Penguins Arena: Sedna's World,1
+2015,11590,Hospital Tycoon,1
+2015,12100,Grand Theft Auto III,1
+2015,12220,Grand Theft Auto: Episodes from Liberty City,1
+2015,12330,Darkstar One,1
+2015,12750,,1
+2015,13250,Unreal Gold,1
+2015,13520,Far Cry®,1
+2015,15100,Assassin's Creed™: Director's Cut Edition,1
+2015,15150,,1
+2015,15170,Heroes of Might & Magic V,1
+2015,15390,Brothers in Arms: Hell's Highway™,1
+2015,15520,AaAaAA!!! - A Reckless Disregard for Gravity,1
+2015,15560,,1
+2015,15710,Oddworld: Abe's Exoddus®,1
+2015,16730,,1
+2015,17020,,1
+2015,17300,Crysis,1
+2015,17470,Dead Space,1
+2015,17740,Empires Mod,1
+2015,18500,Defense Grid: The Awakening,1
+2015,18700,And Yet It Moves,1
+2015,18820,Zero Gear,1
+2015,19900,Far Cry® 2: Fortune's Edition,1
+2015,20510,S.T.A.L.K.E.R.: Clear Sky,1
+2015,20570,"Warhammer® 40,000: Dawn of War® II Chaos Rising",1
+2015,20920,The Witcher 2: Assassins of Kings Enhanced Edition,1
+2015,21090,F.E.A.R.,1
+2015,21100,F.E.A.R. 3,1
+2015,22120,Penumbra: Black Plague Gold Edition,1
+2015,22180,Penumbra Overture,1
+2015,22450,Hunted: The Demon’s Forge™,1
+2015,24790,Command & Conquer 3: Tiberium Wars,1
+2015,25830,Knights of Honor,1
+2015,25910,Supreme Ruler 2020 Gold,1
+2015,25990,Majesty Gold HD,1
+2015,27020,The Graveyard,1
+2015,28000,Kane & Lynch 2: Dog Days,1
+2015,31290,Back to the Future: The Game,1
+2015,32380,STAR WARS™ Jedi Knight: Dark Forces II,1
+2015,32770,Joint Operations: Combined Arms Gold,1
+2015,33670,Disciples III - Renaissance Steam Special Edition,1
+2015,34830,Sniper: Ghost Warrior,1
+2015,34870,Sniper: Ghost Warrior 2,1
+2015,35420,Defence Alliance 2,1
+2015,35480,Dwarfs!?,1
+2015,37000,,1
+2015,38400,Fallout: A Post Nuclear Role Playing Game,1
+2015,38420,Fallout Tactics: Brotherhood of Steel,1
+2015,38720,RUSH,1
+2015,39190,Dungeon Siege,1
+2015,39200,Dungeon Siege II,1
+2015,39670,Chaser,1
+2015,39800,Nation Red,1
+2015,40400,AI War: Fleet Command,1
+2015,40970,Stronghold Crusader HD,1
+2015,41300,Altitude,1
+2015,41800,Gratuitous Space Battles,1
+2015,42719,Call of Duty®: Black Ops - Rezurrection Content Pack,1
+2015,44320,,1
+2015,45700,Devil May Cry 4,1
+2015,45740,Dead Rising® 2,1
+2015,45797,Super Street Fighter IV: Arcade Edition - Arcade Challengers Pack,1
+2015,46260,Star Wolves 3: Civil War,1
+2015,46770,Making History II: The War of the World,1
+2015,47400,Stronghold 3 Gold,1
+2015,47790,Medal of Honor™,1
+2015,47810,Dragon Age: Origins - Ultimate Edition,1
+2015,47870,Need For Speed: Hot Pursuit,1
+2015,48720,Mount & Blade: With Fire & Sword,1
+2015,49540,,1
+2015,55140,MX vs. ATV Reflex,1
+2015,57300,Amnesia: The Dark Descent,1
+2015,58230,MacGuffin's Curse,1
+2015,58610,Wargame: European Escalation,1
+2015,63500,Swords and Soldiers HD,1
+2015,64000,Men of War: Assault Squad,1
+2015,65300,Dustforce DX,1
+2015,65930,The Bureau: XCOM Declassified,1
+2015,70100,Hacker Evolution,1
+2015,70300,VVVVVV,1
+2015,71230,Crazy Taxi,1
+2015,72200,Universe Sandbox,1
+2015,72750,Fallout New Vegas: Old World Blues,1
+2015,72840,Fallout New Vegas®: Gun Runners’ Arsenal™,1
+2015,80310,Gemini Rue,1
+2015,91800,Cloning Clyde,1
+2015,92000,Hydrophobia: Prophecy,1
+2015,93200,Revenge of the Titans,1
+2015,94200,Jamestown,1
+2015,94300,The Dream Machine: Chapter 1 & 2,1
+2015,98200,Frozen Synapse,1
+2015,99810,,1
+2015,99910,Puzzle Pirates,1
+2015,102700,A.V.A. Alliance of Valiant Arms™,1
+2015,102840,Shank 2,1
+2015,104200,BEEP,1
+2015,108200,Ticket to Ride,1
+2015,108500,Vessel,1
+2015,108710,Alan Wake,1
+2015,110400,inMomentum,1
+2015,113204,Binding of Isaac: Wrath of the Lamb,1
+2015,113420,Fallen Earth Free2Play,1
+2015,115100,Costume Quest,1
+2015,115320,Prototype 2,1
+2015,200396,Oil Rush Tower Defense Map Pack,1
+2015,200910,Before the Echo,1
+2015,201480,Serious Sam: The Random Encounter,1
+2015,201570,Really Big Sky,1
+2015,202485,,1
+2015,203350,King's Bounty: Warriors of the North,1
+2015,203810,,1
+2015,204030,Fable - The Lost Chapters,1
+2015,204240,The Bridge,1
+2015,204340,Serious Sam 2,1
+2015,204371,Castle Crashers - Pink Knight Pack,1
+2015,204530,Infested Planet,1
+2015,205350,,1
+2015,205633,Tropico 4: Megalopolis DLC,1
+2015,205930,,1
+2015,205990,Warlock 2: The Exiled,1
+2015,207080,Indie Game: The Movie,1
+2015,207250,Cubemen,1
+2015,207620,The Walking Dead: 400 Days,1
+2015,207790,Jane's Advanced Strike Fighters,1
+2015,208140,Endless Space® - Collection,1
+2015,208200,Doom 3: BFG Edition,1
+2015,208480,Assassin’s Creed® III,1
+2015,208670,Blades of Time,1
+2015,209360,All Zombies Must Die!: Scorepocalypse,1
+2015,209370,Analogue: A Hate Story,1
+2015,209670,Cortex Command,1
+2015,211780,Conflict Desert Storm™,1
+2015,212030,Kung Fu Strike - The Warrior's Rise,1
+2015,213120,,1
+2015,213210,Borderlands 2: Mr. Torgue’s Campaign of Carnage,1
+2015,213330,LEGO® Batman 2 DC Super Heroes™,1
+2015,213610,Sonic Adventure 2,1
+2015,213650,Dwarfs - F2P,1
+2015,213850,Magic 2014 — Duels of the Planeswalkers,1
+2015,214770,Guacamelee! Gold Edition,1
+2015,214931,BioShock Infinite: Burial at Sea - Episode One,1
+2015,214933,BioShock Infinite - Season Pass,1
+2015,215080,WAKFU,1
+2015,215256,Sleeping Dogs: Nightmare in North Point,1
+2015,215670,Home,1
+2015,215710,Fieldrunners 2,1
+2015,216110,Tiny Troopers,1
+2015,218060,BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,1
+2015,218310,,1
+2015,218330,,1
+2015,218560,Borderlands 2 Season Pass,1
+2015,219103,Call of Duty®: Black Ops II - Apocalypse,1
+2015,219600,,1
+2015,219680,Proteus,1
+2015,220160,Trials Evolution: Gold Edition,1
+2015,220260,Farming Simulator 2013 Titanium Edition,1
+2015,220660,StarDrive,1
+2015,221001,FTL: Faster Than Light - Soundtrack,1
+2015,221020,Towns,1
+2015,221540,DG2: Defense Grid 2,1
+2015,222587,Train Simulator: DB BR232 Loco Add-On,1
+2015,222730,Reus,1
+2015,222750,Wargame: Airland Battle,1
+2015,222980,Dead Pixels,1
+2015,223630,,1
+2015,224420,,1
+2015,224440,,1
+2015,224480,Octodad: Dadliest Catch,1
+2015,224500,Gnomoria,1
+2015,224820,Super House of Dead Ninjas,1
+2015,224960,Tomb Raider I,1
+2015,225280,Full Mojo Rampage,1
+2015,225640,Sacred 2 Gold,1
+2015,226320,,1
+2015,226580,F1 2014,1
+2015,226720,LOST PLANET® 3,1
+2015,226740,Monster Loves You!,1
+2015,226840,,1
+2015,226980,,1
+2015,227100,Sniper Elite: Nazi Zombie Army,1
+2015,227260,DisplayFusion,1
+2015,227480,God Mode,1
+2015,227580,"10,000,000",1
+2015,227780,Serious Sam Classics: Revolution,1
+2015,228280,Baldur's Gate: Enhanced Edition,1
+2015,228760,TrackMania² Canyon,1
+2015,228960,Skulls of the Shogun,1
+2015,230700,La-Mulana,1
+2015,230820,The Night of the Rabbit,1
+2015,231060,Ragnarok Online 2,1
+2015,231140,Cities XL Platinum,1
+2015,232890,Stronghold Crusader 2,1
+2015,232910,TrackMania² Stadium,1
+2015,233270,Far Cry 3 - Blood Dragon,1
+2015,233470,Evoland,1
+2015,234310,,1
+2015,234390,Teleglitch: Die More Edition,1
+2015,234650,Shadowrun Returns,1
+2015,234670,NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD,1
+2015,236150,Starpoint Gemini 2,1
+2015,236470,PAC-MAN MUSEUM™,1
+2015,236510,,1
+2015,236690,Blood Bowl 2,1
+2015,237890,Agarest: Generations of War,1
+2015,238260,Pinball Arcade,1
+2015,239120,FINAL FANTASY III,1
+2015,239200,Amnesia: A Machine for Pigs,1
+2015,239250,Castlevania: Lords of Shadow 2,1
+2015,239800,Bleed,1
+2015,240620,Wanderlust Adventures,1
+2015,240760,Wasteland 2: Director's Cut,1
+2015,241640,,1
+2015,242050,Assassin’s Creed® IV Black Flag™,1
+2015,242820,140,1
+2015,243560,,1
+2015,244050,Rise of Flight United,1
+2015,244590,Epigenesis,1
+2015,244710,Shelter,1
+2015,244730,Divekick,1
+2015,245175,Skullgirls: Big Band,1
+2015,246090,Spacebase DF-9,1
+2015,246110,MASSIVE CHALICE,1
+2015,246255,Pac-Man Championship Edition DX+: Pac is Back Skin,1
+2015,246420,Kingdom Rush,1
+2015,246580,The Typing of The Dead: Overkill,1
+2015,247293,Saints Row IV: Dubstep Gun (Remix) Pack,1
+2015,247298,Saints Row IV - The Super Saints Pack,1
+2015,247660,Deadly Premonition: The Director's Cut,1
+2015,247910,Sniper Elite: Nazi Zombie Army 2,1
+2015,247950,Sacred 3,1
+2015,248350,Omegalodon,1
+2015,248860,NEO Scavenger,1
+2015,249230,Risen 3 - Titan Lords,1
+2015,249630,Delver,1
+2015,249650,Blackguards,1
+2015,250180,METAL SLUG 3,1
+2015,250340,Blockland,1
+2015,250420,8BitMMO,1
+2015,250460,Bridge Constructor,1
+2015,251130,Chroma Squad,1
+2015,251310,Eleusis,1
+2015,251630,The Impossible Game,1
+2015,251810,,1
+2015,251970,,1
+2015,252070,Gimbal,1
+2015,252330,Slender: The Arrival,1
+2015,252370,The Shivah,1
+2015,252450,StarDrive 2,1
+2015,252910,Skyscraper Simulator,1
+2015,253370,Axis Game Factory's AGFPRO v3,1
+2015,253690,Tiny Brains,1
+2015,253980,Enclave,1
+2015,254700,resident evil 4 / biohazard 4,1
+2015,255420,Magic 2015 - Duels of the Planeswalkers,1
+2015,255480,,1
+2015,256290,Child of Light,1
+2015,256370,MXGP - The Official Motocross Videogame,1
+2015,257170,Rebuild 3: Gangs of Deadsville,1
+2015,259060,Dominions 4: Thrones of Ascension,1
+2015,259450,Drifter,1
+2015,259530,Savant - Ascent,1
+2015,259680,Tales of Maj'Eyal,1
+2015,259720,Fading Hearts,1
+2015,259800,Total War: ROME II - Blood & Gore,1
+2015,260130,Agarest: Generations of War Zero,1
+2015,260430,The Four Kings Casino and Slots,1
+2015,261510,Tesla Effect: A Tex Murphy Adventure,1
+2015,261980,Half-Life: Before,1
+2015,262490,Manga Maker Comipo,1
+2015,262550,Gunman Clive,1
+2015,262750,GoD Factory: Wingmen,1
+2015,262900,Smooth Operators,1
+2015,263100,9.03m,1
+2015,263320,Saturday Morning RPG,1
+2015,263400,War of the Human Tanks,1
+2015,263740,FootLOL: Epic Fail League,1
+2015,264120,Victory: The Age of Racing,1
+2015,264610,PAYDAY 2: Armored Transport,1
+2015,264730,,1
+2015,265300,Lords Of The Fallen™,1
+2015,266110,Tower of Guns,1
+2015,266130,Breach & Clear,1
+2015,266210,One Way Heroics,1
+2015,266590,AGFPPROV3 Premium,1
+2015,267381,PAYDAY 2: A Merry Payday Christmas Soundtrack,1
+2015,267600,Airport Simulator 2014,1
+2015,268090,Starbound - Soundtrack,1
+2015,268400,Panzer Corps,1
+2015,268850,EVGA Precision XOC,1
+2015,268970,You Are Not The Hero,1
+2015,269270,LOVE,1
+2015,269290,liteCam Game: 100 FPS Game Capture,1
+2015,269390,,1
+2015,269570,GTGD S1: More Than a Gamer,1
+2015,269730,,1
+2015,269790,DreadOut,1
+2015,270090,//N.P.P.D. RUSH//- The milk of Ultraviolet,1
+2015,270170,Depression Quest,1
+2015,270850,,1
+2015,270940,Axis Game Factory's AGFPRO Zombie FPS Player DLC,1
+2015,270941,Axis Game Factory's AGFPRO Fantasy Side-Scroller Player,1
+2015,270942,Axis Game Factory's AGFPRO BattleMat Multi-Player DLC,1
+2015,271360,Industry Giant 2,1
+2015,271900,Hexcells Plus,1
+2015,272060,Serena,1
+2015,272350,,1
+2015,272600,Detective Grimoire,1
+2015,273070,The Last Federation,1
+2015,273300,Outlast: Whistleblower DLC,1
+2015,274230,RONIN,1
+2015,274270,NOT A HERO,1
+2015,274350,Dropsy,1
+2015,274920,FaceRig,1
+2015,275100,Shelter 2,1
+2015,275510,Z Steel Soldiers,1
+2015,275690,Handsome Jack Doppelganger Pack,1
+2015,275700,Arma 3 Zeus,1
+2015,276340,My Riding Stables: Life with Horses,1
+2015,277450,Imperial Glory,1
+2015,277520,Albedo: Eyes from Outer Space,1
+2015,277590,Assassin's Creed Freedom Cry,1
+2015,277930,TUG,1
+2015,277950,,1
+2015,279720,The I of the Dragon,1
+2015,280010,Gunjitsu,1
+2015,280040,A Wizard's Lizard,1
+2015,280180,Hover,1
+2015,280220,Creeper World 3: Arc Eternal,1
+2015,280600,BloodLust Shadowhunter,1
+2015,281370,Real Horror Stories Ultimate Edition,1
+2015,282050,MX vs. ATV Supercross Encore,1
+2015,282400,SuperPower 2 Steam Edition,1
+2015,282780,Stick 'Em Up 2: Paper Adventures,1
+2015,283080,Super Chibi Knight,1
+2015,283290,Nosferatu: The Wrath of Malachi,1
+2015,283430,Litil Divil,1
+2015,283960,Pajama Sam: No Need to Hide When It's Dark Outside,1
+2015,283980,"Spy Fox in ""Dry Cereal""",1
+2015,284140,Majestic Nights,1
+2015,284390,The Last Door - Collector's Edition,1
+2015,284950,Pixel Puzzles: Japan,1
+2015,285050,Showtime!,1
+2015,285160,LEGO® The Hobbit™,1
+2015,285310,RollerCoaster Tycoon®: Deluxe,1
+2015,285820,Action Henk,1
+2015,286040,Dead Effect,1
+2015,286260,fault - milestone one,1
+2015,286360,Shadows on the Vatican Act I: Greed,1
+2015,286500,"House of 1,000 Doors: Family Secrets Collector's Edition",1
+2015,286570,F1 2015,1
+2015,287120,Ionball 2: Ionstorm,1
+2015,287340,Colin McRae Rally,1
+2015,287580,Pandora: First Contact,1
+2015,288470,Fable Anniversary,1
+2015,289090,Ampu-Tea,1
+2015,289760,ROCKETSROCKETSROCKETS,1
+2015,289930,TransOcean: The Shipping Company,1
+2015,290490,The Flock,1
+2015,291010,The Hat Man: Shadow Ward,1
+2015,291250,Jumpdrive,1
+2015,291370,Undead Overlord,1
+2015,293010,,1
+2015,293180,Overcast - Walden and the Werewolf,1
+2015,293500,Amazing World™,1
+2015,293780,Crawl,1
+2015,294160,Galcon 2: Galactic Conquest,1
+2015,294230,Millie,1
+2015,294570,Freddi Fish 5: The Case of the Creature of Coral Cove,1
+2015,294650,Putt-Putt® Goes to the Moon,1
+2015,295490,Schrödinger’s Cat And The Raiders Of The Lost Quark,1
+2015,295550,Royal Quest,1
+2015,295690,PARTICLE MACE,1
+2015,295710,Darkwind: War on Wheels,1
+2015,296070,,1
+2015,296300,Ballistic Overkill,1
+2015,296570,Lords of Xulima,1
+2015,296770,Real Boxing™,1
+2015,296910,8BitBoy™,1
+2015,297130,Titan Souls,1
+2015,297330,Arcadecraft,1
+2015,297350,The Old City: Leviathan,1
+2015,297490,Spy Chameleon - RGB Agent,1
+2015,297512,CoH 2 - US Forces Commander: Rifle Company,1
+2015,298160,Eldevin,1
+2015,298180,The Desolate Hope,1
+2015,298480,Victory At Sea,1
+2015,299250,European Ship Simulator,1
+2015,299540,Heroes Rise: The Prodigy,1
+2015,299680,Tengami,1
+2015,300220,Victim of Xen,1
+2015,300400,Unpossible,1
+2015,301460,Electronic Super Joy: Groove City,1
+2015,301970,Screencheat,1
+2015,302080,Bus Driver,1
+2015,302270,Dungeon Defenders Eternity,1
+2015,302380,Floating Point,1
+2015,302590,Of Guards And Thieves,1
+2015,303800,The Witcher Adventure Game,1
+2015,303820,,1
+2015,304270,,1
+2015,304650,SUNLESS SEA,1
+2015,304670,Aeon Command,1
+2015,304910,Sky Gamblers: Storm Raiders,1
+2015,304950,Castaway Paradise - Town Building Sim,1
+2015,305380,Blue Estate The Game,1
+2015,306040,The Howler,1
+2015,306660,Ultimate General: Gettysburg,1
+2015,306830,,1
+2015,307030,Fractured Soul,1
+2015,307050,,1
+2015,307070,Memories of a Vagabond,1
+2015,307130,Asteria,1
+2015,307230,,1
+2015,307290,Velvet Sundown,1
+2015,310360,Higurashi When They Cry Hou - Ch.1 Onikakushi,1
+2015,310470,Grand Ages: Medieval,1
+2015,310790,Geometry Wars™ 3: Dimensions Evolved,1
+2015,310890,Breach & Clear: Deadline Rebirth (2016),1
+2015,311400,OCEAN CITY RACING: Redux,1
+2015,311730,DEAD OR ALIVE 5 Last Round: Core Fighters,1
+2015,311870,Super Trench Attack!,1
+2015,312750,FINAL FANTASY IV,1
+2015,312780,Way of the Samurai 4,1
+2015,313080,The Masterplan,1
+2015,313371,Middle-earth: Shadow of Mordor - The Dark Ranger Character Skin,1
+2015,313372,Middle-earth: Shadow of Mordor - Test of Power,1
+2015,313500,,1
+2015,314020,Morphopolis,1
+2015,314410,Rampage Knights,1
+2015,314520,Euro Fishing,1
+2015,315640,,1
+2015,315660,Trainz: A New Era,1
+2015,315860,Celestian Tales: Old North,1
+2015,315880,,1
+2015,316430,Battle of Empires : 1914-1918,1
+2015,317100,Republique,1
+2015,317620,Space Hulk Ascension,1
+2015,317710,Velocibox,1
+2015,317780,,1
+2015,317790,Rexaura,1
+2015,317820,Guild of Dungeoneering,1
+2015,318020,Act of Aggression - Reboot Edition,1
+2015,318100,AXYOS,1
+2015,318130,Doom & Destiny,1
+2015,319140,Xeodrifter™,1
+2015,319250,Magicmaker,1
+2015,319910,Trine 3: The Artifacts of Power,1
+2015,319970,The Detail,1
+2015,320350,RER2 Episode Three: Judgment,1
+2015,320760,Tokyo School Life,1
+2015,321580,Planetary Annihilation - Digital Deluxe Add-on,1
+2015,321960,Might & Magic® Heroes® VII,1
+2015,322010,,1
+2015,322660,,1
+2015,322900,"War, the Game",1
+2015,323450,Alphadia Genesis,1
+2015,323500,PAYDAY 2: Hotline Miami,1
+2015,323720,Decay: The Mare,1
+2015,324170,,1
+2015,324260,VoidExpanse,1
+2015,324300,Boston Lockdown Campaign Book pdf,1
+2015,324570,Halo: Spartan Strike,1
+2015,324680,Impossible Creatures Steam Edition,1
+2015,325110,Save the Furries,1
+2015,325300,BEARZERKERS,1
+2015,325600,,1
+2015,326150,Death Skid Marks,1
+2015,326160,Shroud of the Avatar: Forsaken Virtues,1
+2015,326670,Warhammer Quest,1
+2015,326990,Deep Eclipse: New Space Odyssey,1
+2015,327090,Out of Reach,1
+2015,327220,Anna's Quest,1
+2015,327231,,1
+2015,327500,Zenzizenzic,1
+2015,327520,Traverser,1
+2015,327670,Ironcast,1
+2015,328220,Wild Season,1
+2015,328500,Potatoman Seeks the Troof,1
+2015,328940,The Deer God,1
+2015,329430,State of Decay: YOSE,1
+2015,329490,Phantom Breaker: Battle Grounds,1
+2015,329830,The Moon Sliver,1
+2015,330070,VEGAS Movie Studio 13 Platinum - Steam Powered,1
+2015,330100,BossConstructor,1
+2015,330390,Grandia® II Anniversary Edition,1
+2015,331120,Passing Pineview Forest,1
+2015,331220,Thief Town,1
+2015,331600,One Piece Pirate Warriors 3,1
+2015,331900,PAYDAY 2: Gage Historical Pack,1
+2015,332070,School of Dragons,1
+2015,332200,Axiom Verge,1
+2015,332250,The Next Penelope,1
+2015,332790,,1
+2015,332970,,1
+2015,333390,Tales of Aravorn: Seasons Of The Wolf,1
+2015,334660,,1
+2015,334772,Project CARS - Racing Icons Car Pack,1
+2015,334930,,1
+2015,335150,Magic Barrage - Bitferno,1
+2015,335190,200% Mixed Juice!,1
+2015,335330,Brick-Force,1
+2015,335430,Grimoire: Manastorm,1
+2015,335800,LEGO Batman 3: Beyond Gotham DLC: Heroines and Villainesses Character Pack,1
+2015,335820,Dream Of Mirror Online,1
+2015,335840,Goats on a Bridge,1
+2015,336100,Rooster Teeth vs. Zombiens,1
+2015,336670,HIT,1
+2015,337070,"Dimmdrive :: Gaming Ramdrive @ 10,000+ MB/s",1
+2015,337120,Axis Game Factory's AGFPRO - Drone Kombat FPS Multiplayer,1
+2015,337661,PAYDAY 2: Clover Character Pack,1
+2015,338160,Expansion - Europa Universalis IV: El Dorado,1
+2015,338340,,1
+2015,338540,Navy Field 2 : Conqueror of the Ocean,1
+2015,338580,,1
+2015,339120,Fork Parker's Holiday Profit Hike,1
+2015,339190,Dead Synchronicity: Tomorrow Comes Today,1
+2015,339400,Runestone Keeper,1
+2015,340050,Survivalist,1
+2015,340150,Basement,1
+2015,340300,Teddy Floppy Ear - Mountain Adventure,1
+2015,340310,Teddy Floppy Ear - Kayaking,1
+2015,340340,Domestic Dog,1
+2015,340460,Spartans Vs Zombies Defense,1
+2015,340580,Armed with Wings: Rearmed,1
+2015,340610,Battle of Empires : 1914-1918 - Russian Empire,1
+2015,340740,,1
+2015,341530,Stardust Vanguards,1
+2015,342580,12 Labours of Hercules,1
+2015,342620,"It came from space, and ate our brains",1
+2015,342740,Samudai,1
+2015,342970,Pixel Survivors,1
+2015,343000,The Mystery of the Druids,1
+2015,343360,Particula,1
+2015,344040,Voxelized,1
+2015,344140,PAYDAY 2: Dragan Character Pack,1
+2015,344460,,1
+2015,344630,Princess Evangile All Ages Version,1
+2015,344750,,1
+2015,344860,Crystal Story II,1
+2015,345440,Vapour,1
+2015,346170,Boring Man: Premium!,1
+2015,346180,David.,1
+2015,347620,Gaokao.Love.100Days,1
+2015,347630,,1
+2015,348040,This War of Mine - War Child Charity DLC,1
+2015,348091,,1
+2015,348380,The Interview,1
+2015,348960,Odysseus: Long Way Home,1
+2015,349100,Notrium,1
+2015,349220,The Black Watchmen,1
+2015,349740,Shelter 2 Soundtrack,1
+2015,349830,PAYDAY 2: The Butcher's Western Pack,1
+2015,350600,BIOS,1
+2015,351050,Cricket Captain 2015,1
+2015,351461,Awesomenauts - Wraithlord Scoop Announcer,1
+2015,351510,Quiplash,1
+2015,351790,Invisible Apartment,1
+2015,351990,Riff Racer - Race Your Music!,1
+2015,352111,Axis Game Factory's AGFPRO - Voxel Sculpt DLC,1
+2015,352130,Locoland,1
+2015,352400,LEGO® Jurassic World,1
+2015,352700,Subspace Continuum,1
+2015,352960,Star Horizon,1
+2015,353090,Chicken Invaders 5,1
+2015,353690,,1
+2015,353830,Sid Meier's Civilization: Beyond Earth - Rising Tide,1
+2015,354380,Assassin’s Creed® Chronicles: China,1
+2015,354640,The Settlers Online,1
+2015,354650,MISSING: An Interactive Thriller - Episode One,1
+2015,354702,,1
+2015,355250,STAR WARS™: TIE Fighter Special Edition,1
+2015,355860,,1
+2015,356380,Orbit HD,1
+2015,357360,Endless Legend™ - Guardians,1
+2015,357400,,1
+2015,357650,Project Explore,1
+2015,358250,Cosmo's Cosmic Adventure,1
+2015,358260,Crystal Caves,1
+2015,358290,Hocus Pocus,1
+2015,358340,Word Rescue,1
+2015,358960,Canabalt,1
+2015,359040,The Music Machine,1
+2015,359390,Amnesia™: Memories,1
+2015,360170,How to Survive 2,1
+2015,360480,,1
+2015,360640,12 Labours of Hercules II: The Cretan Bull,1
+2015,360730,Cards and Castles,1
+2015,360760,,1
+2015,360960,POSTAL 2: Paradise Lost,1
+2015,361550,Cradle,1
+2015,361700,Mortal Kombat: Legacy,1
+2015,361800,Tree of Life,1
+2015,362280,Mortal Kombat: Legacy II,1
+2015,362870,RPG Maker 2003,1
+2015,363270,O3DX,1
+2015,363360,Interstellar Rift,1
+2015,363460,,1
+2015,363480,Grave Prosperity: Redux- part 1,1
+2015,363620,,1
+2015,364050,Face It - A game to fight inner demons,1
+2015,364323,FSX: Steam Edition - Diamond DA40 Add-On,1
+2015,364450,Freshman Year,1
+2015,364510,Transcendence,1
+2015,365070,One Manga Day,1
+2015,365660,OlliOlli2: Welcome to Olliwood,1
+2015,366220,Wurm Unlimited,1
+2015,368500,Assassin's Creed® Syndicate,1
+2015,368720,Sirius Online,1
+2015,368870,PAYDAY 2: The OVERKILL B-Sides Soundtrack,1
+2015,369000,Pongo,1
+2015,369060,Amygdala,1
+2015,370002,,1
+2015,370020,Templar Battleforce,1
+2015,370150,LOOP: A Tranquil Puzzle Game,1
+2015,370190,Ruzh Delta Z,1
+2015,370360,TIS-100,1
+2015,370480,Pixel Galaxy,1
+2015,371180,Super 3-D Noah's Ark,1
+2015,371500,Grey Cubes,1
+2015,373110,,1
+2015,373330,,1
+2015,373680,,1
+2015,374090,Winter Sports Trilogy Super Pack,1
+2015,375040,Death Tractor,1
+2015,375200,,1
+2015,375220,Bitweb,1
+2015,375910,Anno 2205™,1
+2015,376560,Big Fish Legend,1
+2015,376660,Hero Siege - Amazon (Class),1
+2015,376920,Tiki Man,1
+2015,377330,,1
+2015,377680,,1
+2015,377860,Mushihimesama,1
+2015,378370,Nomad,1
+2015,378580,Untamed: Life Of A Cougar,1
+2015,378641,,1
+2015,378645,,1
+2015,378720,Thea: The Awakening,1
+2015,380840,Teeworlds,1
+2015,381850,My Paper Boat,1
+2015,382780,Steve Chong Finds Out That Suicide is a Bad Idea,1
+2015,383450,Battle of Empires : 1914-1918 -  British Empire,1
+2015,384310,Dead In Bermuda,1
+2015,384360,Fingered,1
+2015,384980,Battle for Blood - Epic battles within 30 seconds!,1
+2015,384990,,1
+2015,385260,Lamia Must Die,1
+2015,385330,Stray Cat Crossing,1
+2015,385530,Астролорды: Облако Оорта,1
+2015,385890,Golden Rush,1
+2015,385980,Scott in Space,1
+2015,387240,Steel Rain,1
+2015,387440,SMITE® - Ultimate God Pack,1
+2015,391260,Labyronia RPG,1
+2015,392450,Silver Creek Falls: Chapter 1,1
+2015,393970,Burning Man: Beyond Black Rock,1
+2015,395910,Get Rich or Die Gaming,1
+2015,397040,Sphere III: Enchanted World,1
+2015,398840,War of Beach,1
+2015,399520,Comedy Quest,1
+2015,399730,Rocket League® - Revenge of the Battle-Cars DLC Pack,1
+2015,399834,Awesomenauts - Rockstar Announcer,1
+2015,400240,The Deer,1
+2015,401810,Poi,1
+2015,403150,,1
+2015,403520,,1
+2015,403700,Zero Punctuation: Hatfall - Hatters Gonna Hat Edition,1
+2015,405180,,1
+2015,405820,Turok,1
+2015,407510,Devilian,1
+2015,407600,Raiden Legacy - Steam Edition,1
+2015,408990,Timber and Stone,1
+2015,409450,The Fall of the Dungeon Guardians - Enhanced Edition,1
+2015,409510,Genesis Online,1
+2015,409590,KINGDOMS,1
+2015,410680,Angels That Kill Demo,1
+2015,411570,Zombie Exodus,1
+2015,412332,,1
+2015,412400,GASP,1
+2015,412470,Metal War Online: Retribution,1
+2015,416130,Written in the Sky,1
+2015,417990,Major\Minor,1
+2015,418300,Wick,1
+2015,418910,Idle Civilization,1
+2015,421630,A Study in Steampunk: Choice by Gaslight,1
+2015,423120,Community College Hero: Trial by Fire,1
+2015,428880,The Quest,1
